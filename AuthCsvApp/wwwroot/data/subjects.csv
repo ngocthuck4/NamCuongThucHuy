@@ -1,0 +1,7 @@
+Id,Name,Description
+2, (A  B  C) bằng Strategy Pattern.,siêu khó
+4,music,hót đi chim (ví dụ: gửi email đến phụ huynh).
+5,Thông báo,Chỉ cần nếu có cấu trúc phân cấp phức tạp 
+6,Decorator Pattern: ,ớp lưu trữ dữ liệu (StudentRepository)  và lớp giao diện (StudentController).
+7,Trong hệ thống ,iệc áp dụng SOLID và Design Pattern có thể mang lại nhiều lợi ích nhưng cần cân nhắc để tránh over-engineerin
+8,Những nguyên tắc SOLID phù hợp,Dưới đây là phân tích cụ thể và gợi ý áp dụng:

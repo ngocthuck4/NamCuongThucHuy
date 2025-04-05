@@ -1,0 +1,256 @@
+﻿@model List<AuthCsvApp.Models.Subject>
+
+@{
+    ViewData["Title"] = "Student Dashboard";
+    var studentUsername = Context.Session.GetString("Username");
+    var notifications = (List<AuthCsvApp.Models.Notification>)ViewBag.Notifications;
+    var student = ViewBag.Student as AuthCsvApp.Models.User;
+}
+
+<!-- Thêm Font Awesome để sử dụng icon -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
+
+<style>
+    .dashboard-header {
+        background-color: #007bff;
+        color: white;
+        padding: 20px;
+        border-radius: 8px 8px 0 0;
+        text-align: center;
+    }
+
+    .dashboard-card {
+        border: none;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .table-hover tbody tr:hover {
+        background-color: #f1f1f1;
+    }
+
+    .btn-primary {
+        background-color: #007bff;
+        border: none;
+    }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+        }
+
+    .btn-success {
+        background-color: #28a745;
+        border: none;
+    }
+
+        .btn-success:hover {
+            background-color: #218838;
+        }
+
+    .btn-danger {
+        background-color: #dc3545;
+        border: none;
+    }
+
+        .btn-danger:hover {
+            background-color: #c82333;
+        }
+
+    .footer {
+        text-align: center;
+        padding: 10px;
+        background-color: #f8f9fa;
+        border-top: 1px solid #e9ecef;
+        margin-top: 20px;
+    }
+
+    .badge {
+        font-size: 0.9rem;
+    }
+</style>
+
+<div class="dashboard-card">
+    <!-- Header -->
+    <div class="dashboard-header">
+        <h2><i class="fas fa-user-graduate mr-2"></i>Student Dashboard</h2>
+        <p class="mb-0">Welcome, @Context.Session.GetString("Username")! <span class="badge badge-light">Student</span></p>
+    </div>
+
+    <!-- Nội dung chính -->
+    <div class="card-body p-4">
+        <!-- Thông tin cá nhân -->
+        <h4 class="mb-3"><i class="fas fa-user mr-2"></i>Personal Information</h4>
+        <div class="card mb-4">
+            <div class="card-body">
+                <dl class="row">
+                    <dt class="col-sm-3">Full Name:</dt>
+                    <dd class="col-sm-9">@student.FullName</dd>
+                    <dt class="col-sm-3">Address:</dt>
+                    <dd class="col-sm-9">@student.Address</dd>
+                    <dt class="col-sm-3">Username:</dt>
+                    <dd class="col-sm-9">@student.Username</dd>
+                    <dt class="col-sm-3">Role:</dt>
+                    <dd class="col-sm-9">
+                        <span class="badge badge-primary">@student.Role</span>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+
+        <!-- Thông báo -->
+        <h4 class="mb-3"><i class="fas fa-bell mr-2"></i>Notifications</h4>
+        @if (notifications == null || !notifications.Any())
+        {
+            <p class="text-muted"><i class="fas fa-exclamation-circle mr-2"></i>No notifications available.</p>
+        }
+        else
+        {
+            <div class="table-responsive">
+                <table class="table table-striped table-hover">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th>Message</th>
+                            <th>Date</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var notification in notifications)
+                        {
+                            <tr>
+                                <td>@notification.Message</td>
+                                <td>@notification.NotificationDate.ToString("yyyy-MM-dd HH:mm:ss")</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        }
+
+        <!-- Môn học đã đăng ký -->
+        <h4 class="mb-3 mt-5"><i class="fas fa-check-circle mr-2"></i>Your Registered Subjects</h4>
+        @{
+            var registeredSubjectsWithDetails = ViewBag.RegisteredSubjectsWithDetails as List<object>;
+        }
+        @if (registeredSubjectsWithDetails == null || !registeredSubjectsWithDetails.Any())
+        {
+            <p class="text-muted"><i class="fas fa-exclamation-circle mr-2"></i>You have not registered for any subjects.</p>
+        }
+        else
+        {
+            <div class="table-responsive">
+                <table class="table table-striped table-hover">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th>ID</th>
+                            <th>Name</th>
+                            <th>Description</th>
+                            <th>Assigned Class</th>
+                            <th>Semester</th>
+                            <th>Teacher</th>
+                            <th>Schedule</th>
+                            <th>Midterm Score</th>
+                            <th>Final Score</th>
+                            <th>Total Score</th>
+                            <th>Classification</th>
+                            <th>Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var subject in registeredSubjectsWithDetails)
+                        {
+                            <tr>
+                                <td>@subject.GetType().GetProperty("SubjectId").GetValue(subject)</td>
+                                <td>@subject.GetType().GetProperty("SubjectName").GetValue(subject)</td>
+                                <td>@subject.GetType().GetProperty("SubjectDescription").GetValue(subject)</td>
+                                <td>@(subject.GetType().GetProperty("ClassId").GetValue(subject).ToString() != "0" ? subject.GetType().GetProperty("ClassId").GetValue(subject) : "Not assigned")</td>
+                                <td>@subject.GetType().GetProperty("SemesterName").GetValue(subject)</td>
+                                <td>@subject.GetType().GetProperty("TeacherName").GetValue(subject)</td>
+                                <td>@subject.GetType().GetProperty("Schedule").GetValue(subject)</td>
+                                <td>@subject.GetType().GetProperty("MidtermScore").GetValue(subject)</td>
+                                <td>@subject.GetType().GetProperty("FinalScore").GetValue(subject)</td>
+                                <td>@subject.GetType().GetProperty("TotalScore").GetValue(subject)</td>
+                                <td>
+                                    <span class="badge bg-@(subject.GetType().GetProperty("Classification").GetValue(subject).ToString() == "A" ? "success" : subject.GetType().GetProperty("Classification").GetValue(subject).ToString() == "F" ? "danger" : "warning")">
+                                        @subject.GetType().GetProperty("Classification").GetValue(subject)
+                                    </span>
+                                </td>
+                                <td>
+                                    <a asp-action="UnregisterSubject" asp-controller="Student" asp-route-subjectId="@subject.GetType().GetProperty("SubjectId").GetValue(subject)" class="btn btn-danger btn-sm">
+                                        <i class="fas fa-trash-alt mr-1"></i> Unregister
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        }
+
+        <!-- Môn học có sẵn -->
+        <h4 class="mb-3 mt-5"><i class="fas fa-book-open mr-2"></i>Available Subjects</h4>
+
+        @if (TempData["Success"] != null)
+        {
+            <div class="alert alert-success alert-dismissible fade show" role="alert">
+                @TempData["Success"]
+                <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                    <span aria-hidden="true">×</span>
+                </button>
+            </div>
+        }
+
+        @if (TempData["Error"] != null)
+        {
+            <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                @TempData["Error"]
+                <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                    <span aria-hidden="true">×</span>
+                </button>
+            </div>
+        }
+
+        @if (Model == null || !Model.Any())
+        {
+            <p class="text-muted"><i class="fas fa-exclamation-circle mr-2"></i>No subjects available for registration.</p>
+        }
+        else
+        {
+            <div class="table-responsive">
+                <table class="table table-striped table-hover">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th>ID</th>
+                            <th>Name</th>
+                            <th>Description</th>
+                            <th>Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var subject in Model)
+                        {
+                            <tr>
+                                <td>@subject.Id</td>
+                                <td>@subject.Name</td>
+                                <td>@subject.Description</td>
+                                <td>
+                                    <a asp-action="RegisterSubject" asp-controller="Student" asp-route-subjectId="@subject.Id" class="btn btn-success btn-sm">
+                                        <i class="fas fa-plus-circle mr-1"></i> Register
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        }
+
+        <a asp-action="Logout" asp-controller="Auth" class="btn btn-danger mt-3">
+            <i class="fas fa-sign-out-alt mr-1"></i> Logout
+        </a>
+    </div>
+</div>
+
+<!-- Footer -->
+<div class="footer">
+    <p class="text-muted mb-0">© 2025 ASMAPDP - Student Management System</p>
+</div>

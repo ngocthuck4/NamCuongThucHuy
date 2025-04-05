@@ -1,0 +1,10 @@
+Id,SubjectId,StudentUsername,ClassId,RegistrationDate
+2,2,mixifood,1,2025-04-05 04:06:02
+3,5,mixifood,3,2025-04-05 04:06:06
+4,7,mixifood,4,2025-04-05 04:06:43
+5,7,truongan,4,2025-04-05 04:10:22
+6,2,truongan,1,2025-04-05 04:10:33
+7,5,truongan,3,2025-04-05 04:10:39
+8,7,namdinh,4,2025-04-05 04:11:08
+9,5,namdinh,3,2025-04-05 04:11:11
+10,2,namdinh,1,2025-04-05 04:11:13

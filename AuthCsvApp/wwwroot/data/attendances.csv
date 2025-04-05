@@ -1,0 +1,5 @@
+Id,ClassId,StudentUsername,AttendanceDate,IsPresent
+1,2,thuc0402,2025-04-04 23:01:05,False
+2,4,mixifood,2025-04-05 04:12:12,False
+3,4,truongan,2025-04-05 04:12:12,True
+4,4,namdinh,2025-04-05 04:12:12,True

@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Admin Dashboard";
+}
+
+<div class="card shadow-sm p-4">
+    <h2 class="text-center mb-4">Admin Dashboard</h2>
+
+    <p class="text-muted">Welcome, @Context.Session.GetString("Username")!</p>
+
+    <div class="list-group">
+        <a asp-action="Index" asp-controller="AdminAccounts" class="list-group-item list-group-item-action">Manage Accounts</a>
+        <a asp-action="Index" asp-controller="AdminSemesters" class="list-group-item list-group-item-action">Manage Semesters</a>
+        <a asp-action="Index" asp-controller="AdminSubjects" class="list-group-item list-group-item-action">Manage Subjects</a>
+        <a asp-action="Index" asp-controller="AdminClasses" class="list-group-item list-group-item-action">Manage Classes</a>
+        <a asp-action="Logout" asp-controller="Auth" class="list-group-item list-group-item-action text-danger">Logout</a>
+    </div>
+</div>

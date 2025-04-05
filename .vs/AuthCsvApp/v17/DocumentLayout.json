@@ -1,0 +1,951 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\wwwroot\\data\\grades.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\wwwroot\\data\\grades.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\wwwroot\\data\\subjects.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\wwwroot\\data\\subjects.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\wwwroot\\data\\subject_registrations.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\wwwroot\\data\\subject_registrations.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\views\\admin\\accounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\admin\\accounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\views\\teacher\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\teacher\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\views\\admin\\accounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\admin\\accounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\views\\admin\\accounts\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\admin\\accounts\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\controllers\\admin\\adminaccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\controllers\\admin\\adminaccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\controllers\\admin\\adminsemesterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\controllers\\admin\\adminsemesterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\views\\admin\\semesters\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\admin\\semesters\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\views\\admin\\semesters\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\admin\\semesters\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\views\\admin\\semesters\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\admin\\semesters\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\views\\admin\\subjects\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\admin\\subjects\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\views\\admin\\subjects\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\admin\\subjects\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\controllers\\admin\\adminsubjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\controllers\\admin\\adminsubjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\views\\admin\\subjects\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\admin\\subjects\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\repositories\\csvrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\repositories\\csvrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\controllers\\teacher\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\controllers\\teacher\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\controllers\\admin\\adminclassescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\controllers\\admin\\adminclassescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\services\\adminaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\services\\adminaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\services\\gradestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\services\\gradestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\views\\admin\\classes\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\admin\\classes\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\views\\admin\\classes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\admin\\classes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\views\\admin\\classes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\admin\\classes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\views\\student\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\student\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\views\\teacher\\entergrades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\teacher\\entergrades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\views\\teacher\\takeattendance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\teacher\\takeattendance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\controllers\\student\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\controllers\\student\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\models\\subjectregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\models\\subjectregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\models\\semester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\models\\semester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\controllers\\admin\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\controllers\\admin\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\authcsvapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\authcsvapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|d:\\downloads\\browser\\downloading visual studio\\source\\authcsvapp\\authcsvapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "subject_registrations.csv",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\wwwroot\\data\\subject_registrations.csv",
+              "RelativeDocumentMoniker": "AuthCsvApp\\wwwroot\\data\\subject_registrations.csv",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\wwwroot\\data\\subject_registrations.csv",
+              "RelativeToolTip": "AuthCsvApp\\wwwroot\\data\\subject_registrations.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-04-04T21:14:50.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "subjects.csv",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\wwwroot\\data\\subjects.csv",
+              "RelativeDocumentMoniker": "AuthCsvApp\\wwwroot\\data\\subjects.csv",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\wwwroot\\data\\subjects.csv",
+              "RelativeToolTip": "AuthCsvApp\\wwwroot\\data\\subjects.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-04-04T21:14:49.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminSemestersController.cs",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Controllers\\Admin\\AdminSemestersController.cs",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Controllers\\Admin\\AdminSemestersController.cs",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Controllers\\Admin\\AdminSemestersController.cs",
+              "RelativeToolTip": "AuthCsvApp\\Controllers\\Admin\\AdminSemestersController.cs",
+              "ViewState": "AgIAAL0BAAAAAAAAAAAkwM4BAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T11:54:49.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminAccountsController.cs",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Controllers\\Admin\\AdminAccountsController.cs",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Controllers\\Admin\\AdminAccountsController.cs",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Controllers\\Admin\\AdminAccountsController.cs",
+              "RelativeToolTip": "AuthCsvApp\\Controllers\\Admin\\AdminAccountsController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAA7wAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T10:48:01.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Admin\\Accounts\\Add.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Admin\\Accounts\\Add.cshtml",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Admin\\Accounts\\Add.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Admin\\Accounts\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T11:16:46.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Admin\\Accounts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Admin\\Accounts\\Edit.cshtml",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Admin\\Accounts\\Edit.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Admin\\Accounts\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T11:16:05.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "grades.csv",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\wwwroot\\data\\grades.csv",
+              "RelativeDocumentMoniker": "AuthCsvApp\\wwwroot\\data\\grades.csv",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\wwwroot\\data\\grades.csv",
+              "RelativeToolTip": "AuthCsvApp\\wwwroot\\data\\grades.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-04-04T16:02:04.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Admin\\Semesters\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Admin\\Semesters\\Edit.cshtml",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Admin\\Semesters\\Edit.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Admin\\Semesters\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T13:49:50.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Admin\\Accounts\\Index.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Admin\\Accounts\\Index.cshtml",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Admin\\Accounts\\Index.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Admin\\Accounts\\Index.cshtml",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAG4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T11:15:20.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Teacher\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Teacher\\Dashboard.cshtml",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Teacher\\Dashboard.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Teacher\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T15:51:06.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Models\\User.cs",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Models\\User.cs",
+              "RelativeToolTip": "AuthCsvApp\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T11:53:40.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Admin\\Semesters\\Index.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Admin\\Semesters\\Index.cshtml",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Admin\\Semesters\\Index.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Admin\\Semesters\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T13:50:37.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Admin\\Semesters\\Add.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Admin\\Semesters\\Add.cshtml",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Admin\\Semesters\\Add.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Admin\\Semesters\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T13:49:07.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Admin\\Subjects\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Admin\\Subjects\\Edit.cshtml",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Admin\\Subjects\\Edit.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Admin\\Subjects\\Edit.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T13:52:01.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Admin\\Subjects\\Index.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Admin\\Subjects\\Index.cshtml",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Admin\\Subjects\\Index.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Admin\\Subjects\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T13:52:39.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Admin\\Subjects\\Add.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Admin\\Subjects\\Add.cshtml",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Admin\\Subjects\\Add.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Admin\\Subjects\\Add.cshtml",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAkwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T13:51:23.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminSubjectsController.cs",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Controllers\\Admin\\AdminSubjectsController.cs",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Controllers\\Admin\\AdminSubjectsController.cs",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Controllers\\Admin\\AdminSubjectsController.cs",
+              "RelativeToolTip": "AuthCsvApp\\Controllers\\Admin\\AdminSubjectsController.cs",
+              "ViewState": "AgIAAKABAAAAAAAAAAAkwMcBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T12:29:47.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CsvRepository.cs",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Repositories\\CsvRepository.cs",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Repositories\\CsvRepository.cs",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Repositories\\CsvRepository.cs",
+              "RelativeToolTip": "AuthCsvApp\\Repositories\\CsvRepository.cs",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAmwAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T11:33:04.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Controllers\\Teacher\\TeacherController.cs",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Controllers\\Teacher\\TeacherController.cs",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Controllers\\Teacher\\TeacherController.cs",
+              "RelativeToolTip": "AuthCsvApp\\Controllers\\Teacher\\TeacherController.cs",
+              "ViewState": "AgIAANIAAAAAAAAAAAAowBkBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T11:57:24.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminClassesController.cs",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Controllers\\Admin\\AdminClassesController.cs",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Controllers\\Admin\\AdminClassesController.cs",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Controllers\\Admin\\AdminClassesController.cs",
+              "RelativeToolTip": "AuthCsvApp\\Controllers\\Admin\\AdminClassesController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAgwHcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T12:14:40.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AuthCsvApp\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAkwJoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T11:54:38.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T12:12:27.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Auth\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T12:10:04.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwEsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T12:12:58.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AdminAccountService.cs",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Services\\AdminAccountService.cs",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Services\\AdminAccountService.cs",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Services\\AdminAccountService.cs",
+              "RelativeToolTip": "AuthCsvApp\\Services\\AdminAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T11:36:31.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Services\\AuthenticationService.cs",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "AuthCsvApp\\Services\\AuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T11:42:14.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GradeStrategy.cs",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Services\\GradeStrategy.cs",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Services\\GradeStrategy.cs",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Services\\GradeStrategy.cs",
+              "RelativeToolTip": "AuthCsvApp\\Services\\GradeStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T15:18:50.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Admin\\Classes\\Add.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Admin\\Classes\\Add.cshtml",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Admin\\Classes\\Add.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Admin\\Classes\\Add.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwC4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T14:35:16.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Admin\\Classes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Admin\\Classes\\Edit.cshtml",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Admin\\Classes\\Edit.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Admin\\Classes\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T14:33:30.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Admin\\Classes\\Index.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Admin\\Classes\\Index.cshtml",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Admin\\Classes\\Index.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Admin\\Classes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T14:37:33.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T15:15:56.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Student\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Student\\Dashboard.cshtml",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Student\\Dashboard.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Student\\Dashboard.cshtml",
+              "ViewState": "AgIAAPQAAAAACHByNmEJwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T15:37:57.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EnterGrades.cshtml",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Teacher\\EnterGrades.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Teacher\\EnterGrades.cshtml",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Teacher\\EnterGrades.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Teacher\\EnterGrades.cshtml",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T15:46:57.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TakeAttendance.cshtml",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Teacher\\TakeAttendance.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Teacher\\TakeAttendance.cshtml",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Teacher\\TakeAttendance.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Teacher\\TakeAttendance.cshtml",
+              "ViewState": "AgIAAGoAAAAA4jEUgmsRwAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T15:59:40.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Program.cs",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Program.cs",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Program.cs",
+              "RelativeToolTip": "AuthCsvApp\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T11:51:31.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthCsvApp\\appsettings.json",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\appsettings.json",
+              "RelativeToolTip": "AuthCsvApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-27T12:49:49.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Controllers\\Student\\StudentController.cs",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Controllers\\Student\\StudentController.cs",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Controllers\\Student\\StudentController.cs",
+              "RelativeToolTip": "AuthCsvApp\\Controllers\\Student\\StudentController.cs",
+              "ViewState": "AgIAAMwBAAAAAAAAAAAqwFYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:39:34.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Models\\Grade.cs",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Models\\Grade.cs",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Models\\Grade.cs",
+              "RelativeToolTip": "AuthCsvApp\\Models\\Grade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T01:02:22.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Models\\Notification.cs",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Models\\Notification.cs",
+              "RelativeToolTip": "AuthCsvApp\\Models\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T12:35:45.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T11:29:39.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SubjectRegistration.cs",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Models\\SubjectRegistration.cs",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Models\\SubjectRegistration.cs",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Models\\SubjectRegistration.cs",
+              "RelativeToolTip": "AuthCsvApp\\Models\\SubjectRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T12:02:14.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Models\\Subject.cs",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Models\\Subject.cs",
+              "RelativeToolTip": "AuthCsvApp\\Models\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T12:09:29.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Semester.cs",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Models\\Semester.cs",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Models\\Semester.cs",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Models\\Semester.cs",
+              "RelativeToolTip": "AuthCsvApp\\Models\\Semester.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T12:21:31.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Class.cs",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Models\\Class.cs",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Models\\Class.cs",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Models\\Class.cs",
+              "RelativeToolTip": "AuthCsvApp\\Models\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T01:02:46.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Models\\Attendance.cs",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Models\\Attendance.cs",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Models\\Attendance.cs",
+              "RelativeToolTip": "AuthCsvApp\\Models\\Attendance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T12:54:01.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AuthCsvApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T12:00:54.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Controllers\\Admin\\AdminController.cs",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Controllers\\Admin\\AdminController.cs",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Controllers\\Admin\\AdminController.cs",
+              "RelativeToolTip": "AuthCsvApp\\Controllers\\Admin\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:55:34.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AuthCsvApp.csproj",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\AuthCsvApp.csproj",
+              "RelativeDocumentMoniker": "AuthCsvApp\\AuthCsvApp.csproj",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\AuthCsvApp.csproj",
+              "RelativeToolTip": "AuthCsvApp\\AuthCsvApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-26T01:08:19.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "AuthCsvApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:24:08.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AuthCsvApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-31T15:19:12.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T09:30:05.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T09:34:36.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T09:34:35.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T09:10:08.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AuthCsvApp\\appsettings.Development.json",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\appsettings.Development.json",
+              "RelativeToolTip": "AuthCsvApp\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-27T13:31:58.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\DOWNLOADS\\BROWSER\\downloading Visual Studio\\source\\AuthCsvApp\\AuthCsvApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T11:29:40.304Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

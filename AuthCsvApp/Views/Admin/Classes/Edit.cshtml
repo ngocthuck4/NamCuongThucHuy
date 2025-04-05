@@ -1,0 +1,78 @@
+﻿@model AuthCsvApp.Models.Class
+
+@{
+    ViewData["Title"] = "Edit Class";
+}
+
+<div class="card shadow-sm p-4">
+    <h2 class="text-center mb-4">Edit Class</h2>
+
+    @if (ViewData.ModelState[""] != null && ViewData.ModelState[""].Errors.Any())
+    {
+        <div class="alert alert-danger" role="alert">
+            @ViewData.ModelState[""].Errors.First().ErrorMessage
+        </div>
+    }
+
+    <form asp-action="Edit" asp-controller="AdminClasses" asp-route-id="@Model.Id" method="post">
+        <div class="form-group">
+            <label asp-for="SubjectId" class="form-label">Subject</label>
+            <select asp-for="SubjectId" class="form-select" id="subjectSelect" required onchange="updateSubjectDescription()">
+                <option value="" disabled>Select a subject</option>
+                @foreach (var subject in (List<AuthCsvApp.Models.Subject>)ViewBag.Subjects)
+                {
+                    <option value="@subject.Id" data-description="@subject.Description" selected="@(subject.Id == Model.SubjectId ? "selected" : null)">@subject.Name</option>
+                }
+            </select>
+            <small id="subjectDescription" class="form-text text-muted"></small>
+            <span asp-validation-for="SubjectId" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="SemesterId" class="form-label">Semester</label>
+            <select asp-for="SemesterId" class="form-select" required>
+                <option value="" disabled>Select a semester</option>
+                @foreach (var semester in (List<AuthCsvApp.Models.Semester>)ViewBag.Semesters)
+                {
+                    <option value="@semester.Id" selected="@(semester.Id == Model.SemesterId ? "selected" : null)">@semester.Name</option>
+                }
+            </select>
+            <span asp-validation-for="SemesterId" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="TeacherUsername" class="form-label">Teacher</label>
+            <select asp-for="TeacherUsername" class="form-select" required>
+                <option value="" disabled>Select a teacher</option>
+                @foreach (var teacher in (List<AuthCsvApp.Models.User>)ViewBag.Teachers)
+                {
+                    <option value="@teacher.Username" selected="@(teacher.Username == Model.TeacherUsername ? "selected" : null)">@teacher.FullName</option>
+                }
+            </select>
+            <span asp-validation-for="TeacherUsername" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Schedule" class="form-label">Schedule</label>
+            <input asp-for="Schedule" class="form-control" placeholder="e.g., Mon 9:00-11:00" required />
+            <span asp-validation-for="Schedule" class="text-danger"></span>
+        </div>
+
+        <div class="d-flex justify-content-between mt-4">
+            <button type="submit" class="btn btn-primary">Save</button>
+            <a asp-action="Index" asp-controller="AdminClasses" class="btn btn-secondary">Cancel</a>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script>
+        function updateSubjectDescription() {
+            var select = document.getElementById("subjectSelect");
+            var description = select.options[select.selectedIndex].getAttribute("data-description");
+            document.getElementById("subjectDescription").innerText = description || "";
+        }
+        window.onload = updateSubjectDescription;
+    </script>
+}
