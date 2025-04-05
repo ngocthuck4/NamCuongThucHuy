@@ -2,16 +2,63 @@
     ViewData["Title"] = "Admin Dashboard";
 }
 
-<div class="card shadow-sm p-4">
-    <h2 class="text-center mb-4">Admin Dashboard</h2>
+<!-- Thêm Font Awesome để sử dụng icon -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
+<link rel="stylesheet" href="~/css/admin-dashboard.css" asp-append-version="true" />
 
-    <p class="text-muted">Welcome, @Context.Session.GetString("Username")!</p>
+<div class="dashboard-container">
+    <!-- Sidebar -->
+    <div class="sidebar">
+        <div class="sidebar-header">
+            <h2><i class="fas fa-user-shield mr-2"></i><span>Admin Dashboard</span></h2>
+            <button class="toggle-btn" onclick="toggleSidebar()"><i class="fas fa-bars"></i></button>
+        </div>
+        <ul class="sidebar-menu">
+            <li class="active" data-section="manage-options"><i class="fas fa-cogs"></i><span>Manage Options</span></li>
+            <li><a href="@Url.Action("Logout", "Auth")"><i class="fas fa-sign-out-alt"></i><span>Logout</span></a></li>
+        </ul>
+    </div>
 
-    <div class="list-group">
-        <a asp-action="Index" asp-controller="AdminAccounts" class="list-group-item list-group-item-action">Manage Accounts</a>
-        <a asp-action="Index" asp-controller="AdminSemesters" class="list-group-item list-group-item-action">Manage Semesters</a>
-        <a asp-action="Index" asp-controller="AdminSubjects" class="list-group-item list-group-item-action">Manage Subjects</a>
-        <a asp-action="Index" asp-controller="AdminClasses" class="list-group-item list-group-item-action">Manage Classes</a>
-        <a asp-action="Logout" asp-controller="Auth" class="list-group-item list-group-item-action text-danger">Logout</a>
+    <!-- Nội dung chính -->
+    <div class="main-content">
+        <!-- Manage Options -->
+        <div class="content-section active" id="manage-options">
+            <h4><i class="fas fa-cogs mr-2"></i>Management Options</h4>
+            <p class="text-muted">Welcome, @Context.Session.GetString("Username")!</p>
+            <div class="list-group">
+                <a asp-action="Index" asp-controller="AdminAccounts" class="list-group-item list-group-item-action"><i class="fas fa-users mr-2"></i>Manage Accounts</a>
+                <a asp-action="Index" asp-controller="AdminSemesters" class="list-group-item list-group-item-action"><i class="fas fa-calendar-alt mr-2"></i>Manage Semesters</a>
+                <a asp-action="Index" asp-controller="AdminSubjects" class="list-group-item list-group-item-action"><i class="fas fa-book mr-2"></i>Manage Subjects</a>
+                <a asp-action="Index" asp-controller="AdminClasses" class="list-group-item list-group-item-action"><i class="fas fa-chalkboard mr-2"></i>Manage Classes</a>
+            </div>
+        </div>
     </div>
 </div>
+
+<div class="footer">
+    <p class="mb-0">© 2025 ASMAPDP - Student Management System</p>
+</div>
+
+<!-- JavaScript để xử lý sidebar và nội dung -->
+<script>
+    function toggleSidebar() {
+        document.querySelector('.sidebar').classList.toggle('collapsed');
+    }
+
+    document.querySelectorAll('.sidebar-menu li').forEach(item => {
+        item.addEventListener('click', function () {
+            if (this.querySelector('a')) return; // Bỏ qua nếu là liên kết Logout
+
+            // Xóa class active khỏi tất cả các mục
+            document.querySelectorAll('.sidebar-menu li').forEach(li => li.classList.remove('active'));
+            // Thêm class active vào mục được nhấp
+            this.classList.add('active');
+
+            // Ẩn tất cả các section
+            document.querySelectorAll('.content-section').forEach(section => section.classList.remove('active'));
+            // Hiển thị section tương ứng
+            const sectionId = this.getAttribute('data-section');
+            document.getElementById(sectionId).classList.add('active');
+        });
+    });
+</script>

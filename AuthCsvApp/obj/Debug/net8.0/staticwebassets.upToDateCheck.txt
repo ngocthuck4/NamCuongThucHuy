@@ -1,4 +1,14 @@
+wwwroot\css\admin-dashboard.css
+wwwroot\css\enter-grades.css
+wwwroot\css\login.css
+wwwroot\css\manage-classes.css
+wwwroot\css\manage-semesters.css
+wwwroot\css\manage-subjects.css
+wwwroot\css\register.css
 wwwroot\css\site.css
+wwwroot\css\student-dashboard.css
+wwwroot\css\take-attendance.css
+wwwroot\css\teacher-dashboard.css
 wwwroot\data\attendances.csv
 wwwroot\data\classes.csv
 wwwroot\data\grades.csv

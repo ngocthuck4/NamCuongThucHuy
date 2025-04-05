@@ -3,3 +3,9 @@ Id,ClassId,StudentUsername,AttendanceDate,IsPresent
 2,4,mixifood,2025-04-05 04:12:12,False
 3,4,truongan,2025-04-05 04:12:12,True
 4,4,namdinh,2025-04-05 04:12:12,True
+5,4,mixifood,2025-04-05 08:51:31,True
+6,4,truongan,2025-04-05 08:51:31,False
+7,4,namdinh,2025-04-05 08:51:31,True
+8,4,mixifood,2025-04-05 08:51:48,False
+9,4,truongan,2025-04-05 08:51:48,True
+10,4,namdinh,2025-04-05 08:51:48,True

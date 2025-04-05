@@ -1,0 +1,233 @@
+﻿/* wwwroot/css/admin-dashboard.css */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f6f9;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    min-height: 100vh;
+}
+
+.dashboard-container {
+    display: flex;
+    width: 100%;
+}
+
+.sidebar {
+    width: 250px;
+    background-color: #343a40;
+    color: white;
+    min-height: 100vh;
+    transition: width 0.3s ease;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+}
+
+    .sidebar.collapsed {
+        width: 60px;
+    }
+
+.sidebar-header {
+    padding: 20px;
+    background-color: #007bff;
+    text-align: center;
+}
+
+    .sidebar-header h2 {
+        font-size: 1.5rem;
+        margin: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .sidebar-header .toggle-btn {
+        background: none;
+        border: none;
+        color: white;
+        font-size: 1.2rem;
+        cursor: pointer;
+        margin-left: 10px;
+    }
+
+.sidebar-menu {
+    list-style: none;
+    padding: 0;
+}
+
+    .sidebar-menu li {
+        padding: 15px 20px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+        .sidebar-menu li:hover {
+            background-color: #495057;
+        }
+
+        .sidebar-menu li.active {
+            background-color: #007bff;
+        }
+
+        .sidebar-menu li i {
+            margin-right: 10px;
+            width: 20px;
+            text-align: center;
+        }
+
+        .sidebar-menu li span {
+            display: inline-block;
+        }
+
+.sidebar.collapsed .sidebar-menu li span {
+    display: none;
+}
+
+.main-content {
+    flex: 1;
+    padding: 20px;
+    margin-left: 250px;
+    transition: margin-left 0.3s ease;
+}
+
+.sidebar.collapsed ~ .main-content {
+    margin-left: 60px;
+}
+
+.content-section {
+    display: none;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+    padding: 30px;
+    margin-bottom: 30px;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+    .content-section.active {
+        display: block;
+    }
+
+    .content-section h4 {
+        font-size: 1.5rem;
+        color: #333;
+        margin-bottom: 20px;
+        font-weight: 600;
+        text-align: center;
+    }
+
+.text-muted {
+    color: #6c757d !important;
+    font-size: 1.1rem;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.list-group {
+    margin-bottom: 20px;
+}
+
+.list-group-item {
+    font-size: 1rem;
+    padding: 15px 20px;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    transition: all 0.3s ease;
+    background-color: #fff;
+    color: #333;
+}
+
+    .list-group-item:hover {
+        background-color: #f8f9fa;
+        transform: translateY(-2px);
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+
+.list-group-item-action {
+    cursor: pointer;
+}
+
+.list-group-item.text-danger {
+    color: #dc3545;
+}
+
+    .list-group-item.text-danger:hover {
+        background-color: #f8d7da;
+        color: #c82333;
+    }
+
+.footer {
+    text-align: center;
+    padding: 15px;
+    background-color: #f8f9fa;
+    border-top: 1px solid #e9ecef;
+    color: #6c757d;
+    font-size: 0.9rem;
+    margin-top: 30px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .sidebar {
+        width: 200px;
+    }
+
+        .sidebar.collapsed {
+            width: 60px;
+        }
+
+    .main-content {
+        margin-left: 200px;
+    }
+
+    .sidebar.collapsed ~ .main-content {
+        margin-left: 60px;
+    }
+
+    .content-section h4 {
+        font-size: 1.3rem;
+    }
+
+    .list-group-item {
+        font-size: 0.9rem;
+        padding: 12px 15px;
+    }
+}
+
+@media (max-width: 576px) {
+    .sidebar {
+        width: 60px;
+    }
+
+        .sidebar.collapsed {
+            width: 60px;
+        }
+
+    .main-content {
+        margin-left: 60px;
+    }
+
+    .sidebar.collapsed ~ .main-content {
+        margin-left: 60px;
+    }
+
+    .content-section {
+        padding: 20px;
+    }
+
+        .content-section h4 {
+            font-size: 1.2rem;
+        }
+}
