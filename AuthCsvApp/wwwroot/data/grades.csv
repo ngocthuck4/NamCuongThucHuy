@@ -1,4 +1,8 @@
 Id,ClassId,StudentUsername,MidtermScore,FinalScore,TotalScore,Classification
 1,4,mixifood,2,8,5,D
-1,4,truongan,7.2,5,6.1,D
 1,4,namdinh,4,5.9,4.95,F
+2,1,mixifood,9,3,6,D
+2,1,namdinh,4.5,8,6.25,D
+2,1,ba vì,6.7,3.5,5.1,D
+3,6,ba vì,9,9.5,9.25,A
+3,6,cuongdollar,8,7.5,7.75,C

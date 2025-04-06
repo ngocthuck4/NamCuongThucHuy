@@ -1,8 +1,6 @@
 ﻿using AuthCsvApp.Models;
 using AuthCsvApp.Repositories;
 using AuthCsvApp.Services;
-using AuthCsvApp.Models;
-using AuthCsvApp.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace AuthCsvApp.Controllers

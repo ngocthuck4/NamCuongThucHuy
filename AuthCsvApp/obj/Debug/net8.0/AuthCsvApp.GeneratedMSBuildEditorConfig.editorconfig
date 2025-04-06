@@ -17,117 +17,117 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AuthCsvApp
 build_property.RootNamespace = AuthCsvApp
-build_property.ProjectDir = D:\NamCuongThucHuy\AuthCsvApp\
+build_property.ProjectDir = C:\Users\ricec\Downloads\NamCuongThucHuy\AuthCsvApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\NamCuongThucHuy\AuthCsvApp
+build_property.MSBuildProjectDirectory = C:\Users\ricec\Downloads\NamCuongThucHuy\AuthCsvApp
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/NamCuongThucHuy/AuthCsvApp/Views/Admin/Accounts/Add.cshtml]
+[C:/Users/ricec/Downloads/NamCuongThucHuy/AuthCsvApp/Views/Admin/Accounts/Add.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWNjb3VudHNcQWRkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/NamCuongThucHuy/AuthCsvApp/Views/Admin/Accounts/Edit.cshtml]
+[C:/Users/ricec/Downloads/NamCuongThucHuy/AuthCsvApp/Views/Admin/Accounts/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWNjb3VudHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/NamCuongThucHuy/AuthCsvApp/Views/Admin/Accounts/Index.cshtml]
+[C:/Users/ricec/Downloads/NamCuongThucHuy/AuthCsvApp/Views/Admin/Accounts/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWNjb3VudHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/NamCuongThucHuy/AuthCsvApp/Views/Admin/Classes/Add.cshtml]
+[C:/Users/ricec/Downloads/NamCuongThucHuy/AuthCsvApp/Views/Admin/Classes/Add.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ2xhc3Nlc1xBZGQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/NamCuongThucHuy/AuthCsvApp/Views/Admin/Classes/Edit.cshtml]
+[C:/Users/ricec/Downloads/NamCuongThucHuy/AuthCsvApp/Views/Admin/Classes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ2xhc3Nlc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/NamCuongThucHuy/AuthCsvApp/Views/Admin/Classes/Index.cshtml]
+[C:/Users/ricec/Downloads/NamCuongThucHuy/AuthCsvApp/Views/Admin/Classes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ2xhc3Nlc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/NamCuongThucHuy/AuthCsvApp/Views/Admin/Dashboard.cshtml]
+[C:/Users/ricec/Downloads/NamCuongThucHuy/AuthCsvApp/Views/Admin/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGFzaGJvYXJkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/NamCuongThucHuy/AuthCsvApp/Views/Admin/Semesters/Add.cshtml]
+[C:/Users/ricec/Downloads/NamCuongThucHuy/AuthCsvApp/Views/Admin/Semesters/Add.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU2VtZXN0ZXJzXEFkZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/NamCuongThucHuy/AuthCsvApp/Views/Admin/Semesters/Edit.cshtml]
+[C:/Users/ricec/Downloads/NamCuongThucHuy/AuthCsvApp/Views/Admin/Semesters/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU2VtZXN0ZXJzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/NamCuongThucHuy/AuthCsvApp/Views/Admin/Semesters/Index.cshtml]
+[C:/Users/ricec/Downloads/NamCuongThucHuy/AuthCsvApp/Views/Admin/Semesters/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU2VtZXN0ZXJzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/NamCuongThucHuy/AuthCsvApp/Views/Admin/Subjects/Add.cshtml]
+[C:/Users/ricec/Downloads/NamCuongThucHuy/AuthCsvApp/Views/Admin/Subjects/Add.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU3ViamVjdHNcQWRkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/NamCuongThucHuy/AuthCsvApp/Views/Admin/Subjects/Edit.cshtml]
+[C:/Users/ricec/Downloads/NamCuongThucHuy/AuthCsvApp/Views/Admin/Subjects/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU3ViamVjdHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/NamCuongThucHuy/AuthCsvApp/Views/Admin/Subjects/Index.cshtml]
+[C:/Users/ricec/Downloads/NamCuongThucHuy/AuthCsvApp/Views/Admin/Subjects/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU3ViamVjdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/NamCuongThucHuy/AuthCsvApp/Views/Auth/Login.cshtml]
+[C:/Users/ricec/Downloads/NamCuongThucHuy/AuthCsvApp/Views/Auth/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/NamCuongThucHuy/AuthCsvApp/Views/Auth/Register.cshtml]
+[C:/Users/ricec/Downloads/NamCuongThucHuy/AuthCsvApp/Views/Auth/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/NamCuongThucHuy/AuthCsvApp/Views/Home/Index.cshtml]
+[C:/Users/ricec/Downloads/NamCuongThucHuy/AuthCsvApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/NamCuongThucHuy/AuthCsvApp/Views/Home/Privacy.cshtml]
+[C:/Users/ricec/Downloads/NamCuongThucHuy/AuthCsvApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/NamCuongThucHuy/AuthCsvApp/Views/Shared/Error.cshtml]
+[C:/Users/ricec/Downloads/NamCuongThucHuy/AuthCsvApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/NamCuongThucHuy/AuthCsvApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/ricec/Downloads/NamCuongThucHuy/AuthCsvApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/NamCuongThucHuy/AuthCsvApp/Views/Student/Dashboard.cshtml]
+[C:/Users/ricec/Downloads/NamCuongThucHuy/AuthCsvApp/Views/Student/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxEYXNoYm9hcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/NamCuongThucHuy/AuthCsvApp/Views/Teacher/Dashboard.cshtml]
+[C:/Users/ricec/Downloads/NamCuongThucHuy/AuthCsvApp/Views/Teacher/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclxEYXNoYm9hcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/NamCuongThucHuy/AuthCsvApp/Views/Teacher/EnterGrades.cshtml]
+[C:/Users/ricec/Downloads/NamCuongThucHuy/AuthCsvApp/Views/Teacher/EnterGrades.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclxFbnRlckdyYWRlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/NamCuongThucHuy/AuthCsvApp/Views/Teacher/TakeAttendance.cshtml]
+[C:/Users/ricec/Downloads/NamCuongThucHuy/AuthCsvApp/Views/Teacher/TakeAttendance.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclxUYWtlQXR0ZW5kYW5jZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/NamCuongThucHuy/AuthCsvApp/Views/_ViewImports.cshtml]
+[C:/Users/ricec/Downloads/NamCuongThucHuy/AuthCsvApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/NamCuongThucHuy/AuthCsvApp/Views/_ViewStart.cshtml]
+[C:/Users/ricec/Downloads/NamCuongThucHuy/AuthCsvApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/NamCuongThucHuy/AuthCsvApp/Views/Shared/_Layout.cshtml]
+[C:/Users/ricec/Downloads/NamCuongThucHuy/AuthCsvApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-8q9k0vtjn4

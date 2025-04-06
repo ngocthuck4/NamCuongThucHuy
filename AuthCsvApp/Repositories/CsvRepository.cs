@@ -9,70 +9,13 @@ namespace AuthCsvApp.Repositories
 {
     public class CsvRepository
     {
-        private readonly string usersFilePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "data", "users.csv");
         private readonly string classesFilePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "data", "classes.csv");
+        private readonly string subjectsFilePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "data", "subjects.csv");
+        private readonly string semestersFilePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "data", "semesters.csv");
+        private readonly string usersFilePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "data", "users.csv");
         private readonly string subjectRegistrationsFilePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "data", "subject_registrations.csv");
         private readonly string gradesFilePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "data", "grades.csv");
         private readonly string notificationsFilePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "data", "notifications.csv");
-
-        public List<User> ReadUsers()
-        {
-            List<User> users = new List<User>();
-            if (!File.Exists(usersFilePath))
-            {
-                File.WriteAllLines(usersFilePath, new[] { "Id,FullName,Address,Username,Password,Role" });
-                return users;
-            }
-
-            var lines = File.ReadAllLines(usersFilePath);
-            foreach (var line in lines.Skip(1))
-            {
-                if (string.IsNullOrWhiteSpace(line)) continue;
-
-                var values = line.Split(',');
-                if (values.Length < 6)
-                {
-                    System.Diagnostics.Debug.WriteLine($"Invalid line in users.csv: {line}");
-                    continue;
-                }
-
-                try
-                {
-                    users.Add(new User
-                    {
-                        Id = int.Parse(values[0]),
-                        FullName = values[1],
-                        Address = values[2],
-                        Username = values[3],
-                        Password = values[4],
-                        Role = Enum.TryParse(values[5], out UserRole role) ? role : UserRole.Student
-                    });
-                }
-                catch (Exception ex)
-                {
-                    System.Diagnostics.Debug.WriteLine($"Error parsing data in users.csv: {line}. Error: {ex.Message}");
-                    continue;
-                }
-            }
-
-            return users;
-        }
-
-        public void WriteUsers(List<User> users)
-        {
-            var lines = new List<string> { "Id,FullName,Address,Username,Password,Role" };
-            foreach (var user in users)
-            {
-                var fullName = user.FullName.Replace(",", " ");
-                var address = user.Address.Replace(",", " ");
-                var username = user.Username.Replace(",", " ");
-                var password = user.Password.Replace(",", " ");
-                var role = user.Role.ToString();
-                lines.Add($"{user.Id},{fullName},{address},{username},{password},{role}");
-            }
-
-            File.WriteAllLines(usersFilePath, lines);
-        }
 
         public List<Class> ReadClasses()
         {
@@ -119,9 +62,153 @@ namespace AuthCsvApp.Repositories
         public void WriteClasses(List<Class> classes)
         {
             var lines = new List<string> { "Id,SubjectId,SemesterId,TeacherUsername,Schedule" };
-            lines.AddRange(classes.Select(c => $"{c.Id},{c.SubjectId},{c.SemesterId},{c.TeacherUsername},{c.Schedule}"));
+            foreach (var c in classes)
+            {
+                var schedule = c.Schedule.Replace(",", " ");
+                lines.Add($"{c.Id},{c.SubjectId},{c.SemesterId},{c.TeacherUsername},{schedule}");
+            }
             File.WriteAllLines(classesFilePath, lines);
         }
+
+        public List<Subject> ReadSubjects()
+        {
+            List<Subject> subjects = new List<Subject>();
+            if (!File.Exists(subjectsFilePath))
+            {
+                File.WriteAllLines(subjectsFilePath, new[] { "Id,Name,Description" });
+                return subjects;
+            }
+
+            var lines = File.ReadAllLines(subjectsFilePath);
+            foreach (var line in lines.Skip(1))
+            {
+                if (string.IsNullOrWhiteSpace(line)) continue;
+
+                var values = line.Split(',');
+                if (values.Length < 3)
+                {
+                    System.Diagnostics.Debug.WriteLine($"Invalid line in subjects.csv: {line}");
+                    continue;
+                }
+
+                try
+                {
+                    subjects.Add(new Subject
+                    {
+                        Id = int.Parse(values[0]),
+                        Name = values[1],
+                        Description = values[2]
+                    });
+                }
+                catch (Exception ex)
+                {
+                    System.Diagnostics.Debug.WriteLine($"Error parsing data in subjects.csv: {line}. Error: {ex.Message}");
+                    continue;
+                }
+            }
+
+            return subjects;
+        }
+
+        public List<Semester> ReadSemesters()
+        {
+            List<Semester> semesters = new List<Semester>();
+            if (!File.Exists(semestersFilePath))
+            {
+                File.WriteAllLines(semestersFilePath, new[] { "Id,Name,StartDate,EndDate" });
+                return semesters;
+            }
+
+            var lines = File.ReadAllLines(semestersFilePath);
+            foreach (var line in lines.Skip(1))
+            {
+                if (string.IsNullOrWhiteSpace(line)) continue;
+
+                var values = line.Split(',');
+                if (values.Length < 4)
+                {
+                    System.Diagnostics.Debug.WriteLine($"Invalid line in semesters.csv: {line}");
+                    continue;
+                }
+
+                try
+                {
+                    semesters.Add(new Semester
+                    {
+                        Id = int.Parse(values[0]),
+                        Name = values[1],
+                        StartDate = DateTime.Parse(values[2]),
+                        EndDate = DateTime.Parse(values[3])
+                    });
+                }
+                catch (Exception ex)
+                {
+                    System.Diagnostics.Debug.WriteLine($"Error parsing data in semesters.csv: {line}. Error: {ex.Message}");
+                    continue;
+                }
+            }
+
+            return semesters;
+        }
+
+        public List<User> ReadUsers()
+        {
+            List<User> users = new List<User>();
+            if (!File.Exists(usersFilePath))
+            {
+                File.WriteAllLines(usersFilePath, new[] { "Id,FullName,Address,Username,Password,Role" });
+                return users;
+            }
+
+            var lines = File.ReadAllLines(usersFilePath);
+            foreach (var line in lines.Skip(1))
+            {
+                if (string.IsNullOrWhiteSpace(line)) continue;
+
+                var values = line.Split(',');
+                if (values.Length < 6)
+                {
+                    System.Diagnostics.Debug.WriteLine($"Invalid line in users.csv: {line}");
+                    continue;
+                }
+
+                try
+                {
+                    users.Add(new User
+                    {
+                        Id = int.Parse(values[0]),
+                        FullName = values[1],
+                        Address = values[2],
+                        Username = values[3],
+                        Password = values[4],
+                        Role = Enum.TryParse(values[5], out UserRole role) ? role : UserRole.Student
+                    });
+                }
+                catch (Exception ex)
+                {
+                    System.Diagnostics.Debug.WriteLine($"Error parsing data in users.csv: {line}. Error: {ex.Message}");
+                    continue;
+                }
+            }
+
+            return users;
+        }
+        public void WriteUsers(List<User> users)
+        {
+            var lines = new List<string> { "Id,FullName,Address,Username,Password,Role" };
+            foreach (var user in users)
+            {
+                var fullName = user.FullName.Replace(",", " ");
+                var address = user.Address.Replace(",", " ");
+                var username = user.Username.Replace(",", " ");
+                var password = user.Password.Replace(",", " ");
+                var role = user.Role.ToString();
+                lines.Add($"{user.Id},{fullName},{address},{username},{password},{role}");
+            }
+
+            File.WriteAllLines(usersFilePath, lines);
+        }
+
 
         public List<SubjectRegistration> ReadSubjectRegistrations()
         {

@@ -5,3 +5,4 @@ Id,Name,Description
 6,Decorator Pattern: ,ớp lưu trữ dữ liệu (StudentRepository)  và lớp giao diện (StudentController).
 7,Trong hệ thống ,iệc áp dụng SOLID và Design Pattern có thể mang lại nhiều lợi ích nhưng cần cân nhắc để tránh over-engineerin
 8,Những nguyên tắc SOLID phù hợp,Dưới đây là phân tích cụ thể và gợi ý áp dụng:
+9,blue lock,cách đẩy code lên github khi có thay đổi trong code

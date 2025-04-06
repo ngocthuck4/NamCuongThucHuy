@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
-namespace ASMAPDP.Controllers
+namespace AuthCsvApp.Controllers
 {
     [Route("auth")]
     public class AuthController : Controller

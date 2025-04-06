@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\NamCuongThucHuy\\AuthCsvApp\\AuthCsvApp.csproj": {}
+    "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\AuthCsvApp.csproj": {}
   },
   "projects": {
-    "D:\\NamCuongThucHuy\\AuthCsvApp\\AuthCsvApp.csproj": {
+    "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\AuthCsvApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\NamCuongThucHuy\\AuthCsvApp\\AuthCsvApp.csproj",
+        "projectUniqueName": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\AuthCsvApp.csproj",
         "projectName": "AuthCsvApp",
-        "projectPath": "D:\\NamCuongThucHuy\\AuthCsvApp\\AuthCsvApp.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\NamCuongThucHuy\\AuthCsvApp\\obj\\",
+        "projectPath": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\AuthCsvApp.csproj",
+        "packagesPath": "C:\\Users\\ricec\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "D:\\DOWNLOADS\\BROWSER\\tool and sdk(2022)\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ricec\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

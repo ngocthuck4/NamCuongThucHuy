@@ -2,3 +2,5 @@ Id,SubjectId,SemesterId,TeacherUsername,Schedule
 1,2,5,daclac,giải lao
 3,5,4,daclac,hạ long
 4,7,3,nam,tại đây
+5,2,4,daclac,thứ ba
+6,9,8,daclac,sau kì worldcup

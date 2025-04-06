@@ -9,3 +9,5 @@ Id,ClassId,StudentUsername,AttendanceDate,IsPresent
 8,4,mixifood,2025-04-05 08:51:48,False
 9,4,truongan,2025-04-05 08:51:48,True
 10,4,namdinh,2025-04-05 08:51:48,True
+11,6,ba vì,2025-04-06 09:52:55,False
+12,6,cuongdollar,2025-04-06 09:52:55,False

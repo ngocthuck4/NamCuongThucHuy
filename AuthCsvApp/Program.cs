@@ -1,13 +1,14 @@
-﻿using AuthCsvApp.Repositories;
+﻿
+using AuthCsvApp.Managers;
+using AuthCsvApp.Repositories;
 using AuthCsvApp.Services;
-using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.ResponseCompression;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using System;
 
-namespace ASMAPDP
+namespace AuthCsv // Thay đổi namespace từ AuthCsvApp sang ASMAPDP để đồng bộ
 {
     public class Program
     {
@@ -32,9 +33,23 @@ namespace ASMAPDP
             // Đăng ký các service
             builder.Services.AddSingleton<CsvRepository>();
             builder.Services.AddSingleton<AdminAccountService>();
-            builder.Services.AddSingleton<AuthCsvApp.Services.AuthenticationService>();
+            builder.Services.AddSingleton<AuthCsvApp.Services.AuthenticationService>(); // Cập nhật namespace cho AuthenticationService
+            builder.Services.AddSingleton<AdminClassManager>(); // Đăng ký AdminClassManager
+            builder.Services.AddSingleton<AdminClassService>(); // Đăng ký AdminClassService
+            builder.Services.AddScoped<TeacherClassManager>(provider => // Đăng ký TeacherClassManager với Scoped lifetime
+                new TeacherClassManager(
+                    provider.GetRequiredService<CsvRepository>(),
+                    provider.GetRequiredService<IHttpContextAccessor>().HttpContext?.Session.GetString("Username") ?? throw new InvalidOperationException("Username not found in session.")
+                )
+            );
+            builder.Services.AddScoped<StudentClassManager>(provider => // Đăng ký StudentClassManager với Scoped lifetime
+                new StudentClassManager(
+                    provider.GetRequiredService<CsvRepository>(),
+                    provider.GetRequiredService<IHttpContextAccessor>().HttpContext?.Session.GetString("Username") ?? throw new InvalidOperationException("Username not found in session.")
+                )
+            );
 
-            // Cần thiết để truy cập HttpContext trong AuthenticationService
+            // Cần thiết để truy cập HttpContext trong AuthenticationService, TeacherClassManager, và StudentClassManager
             builder.Services.AddHttpContextAccessor();
 
             // Cấu hình logging
