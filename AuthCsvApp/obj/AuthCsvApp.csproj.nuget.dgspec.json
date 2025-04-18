@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\AuthCsvApp.csproj": {}
+    "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\AuthCsvApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\AuthCsvApp.csproj": {
+    "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\AuthCsvApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\AuthCsvApp.csproj",
+        "projectUniqueName": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\AuthCsvApp.csproj",
         "projectName": "AuthCsvApp",
-        "projectPath": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\AuthCsvApp.csproj",
+        "projectPath": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\AuthCsvApp.csproj",
         "packagesPath": "C:\\Users\\ricec\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\obj\\",
+        "outputPath": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\DOWNLOADS\\BROWSER\\tool and sdk(2022)\\NuGetPackages"

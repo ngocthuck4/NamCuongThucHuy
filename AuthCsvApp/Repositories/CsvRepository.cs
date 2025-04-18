@@ -1,5 +1,5 @@
-﻿
-using AuthCsvApp.Models;
+﻿using AuthCsvApp.Models;
+using AuthCsvApp.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -7,7 +7,7 @@ using System.Linq;
 
 namespace AuthCsvApp.Repositories
 {
-    public class CsvRepository
+    public class CsvRepository : ICsvRepository
     {
         private readonly string classesFilePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "data", "classes.csv");
         private readonly string subjectsFilePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "data", "subjects.csv");
@@ -193,6 +193,7 @@ namespace AuthCsvApp.Repositories
 
             return users;
         }
+
         public void WriteUsers(List<User> users)
         {
             var lines = new List<string> { "Id,FullName,Address,Username,Password,Role" };
@@ -209,6 +210,11 @@ namespace AuthCsvApp.Repositories
             File.WriteAllLines(usersFilePath, lines);
         }
 
+        public List<User> ReadTeachers()
+        {
+            var users = ReadUsers();
+            return users.Where(u => u.Role == UserRole.Teacher).ToList();
+        }
 
         public List<SubjectRegistration> ReadSubjectRegistrations()
         {

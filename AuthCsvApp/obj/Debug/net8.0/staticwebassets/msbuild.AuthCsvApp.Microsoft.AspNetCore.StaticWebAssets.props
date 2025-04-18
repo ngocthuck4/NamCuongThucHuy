@@ -228,8 +228,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>3cjotjv6fc</Fingerprint>
-      <Integrity>Ha9l9AVOVRDealmr2fnXxyDUMsNIu0/5r0h01Tb6aCw=</Integrity>
+      <Fingerprint>km5kaba6o0</Fingerprint>
+      <Integrity>hDAYEBQHERz9nLwJfqgUJvtr5xEmMxMnaw1m/ssxomE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\data\attendances.csv'))</OriginalItemSpec>
@@ -264,8 +264,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>gi156b99j7</Fingerprint>
-      <Integrity>GMdmJ4gSaq+JacZ00dp9d3QQIDEVTohhk5Inj2hACPo=</Integrity>
+      <Fingerprint>fr6whztx1i</Fingerprint>
+      <Integrity>xehcWwKAeQybUCbmg/4Xi3j6wfEOAV5NqGmhxy2kgnM=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\data\grades.csv'))</OriginalItemSpec>
@@ -282,8 +282,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>mwhool678b</Fingerprint>
-      <Integrity>WuMlFq4a5ZzOQ/u6XEpKmnHe6sIqKjw8IOEwnIedDyE=</Integrity>
+      <Fingerprint>c47e1rix54</Fingerprint>
+      <Integrity>dJcim6BunZmQzihmu3RT+PiGRNSodC54cazkLmeKCkw=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\data\notifications.csv'))</OriginalItemSpec>
@@ -336,8 +336,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ywxqmx23zj</Fingerprint>
-      <Integrity>zvfBObXBC7/sya3nhrP3R4M/AsXIYZhGfCKSI5uYTKE=</Integrity>
+      <Fingerprint>mns3x5z2jo</Fingerprint>
+      <Integrity>0lg0213nqDBHR6uHxbmwy/PLWQB8iylQwmiZZplyWgc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\data\subject_registrations.csv'))</OriginalItemSpec>
@@ -354,8 +354,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>smzipb5tnr</Fingerprint>
-      <Integrity>5Nlu1mwM139Lmm7JKZIgOGhjQGNlR8MgOMkNZthlPIU=</Integrity>
+      <Fingerprint>3jbkreex5u</Fingerprint>
+      <Integrity>X4ottulaaatRmhB3N5TRBlyD2mi6iaEZF1LYknnWROY=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\data\users.csv'))</OriginalItemSpec>

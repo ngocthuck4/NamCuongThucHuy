@@ -1,317 +1,349 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\",
+  "WorkspaceRootPath": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\wwwroot\\data\\users.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\wwwroot\\data\\users.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{7A8A8D96-F21A-45BB-A95C-1BC9ED7D277C}|SIMS.Tests\\SIMS.Tests.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\sims.tests\\unittests\\adminmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8A8D96-F21A-45BB-A95C-1BC9ED7D277C}|SIMS.Tests\\SIMS.Tests.csproj|solutionrelative:sims.tests\\unittests\\adminmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\wwwroot\\data\\grades.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\wwwroot\\data\\grades.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{7A8A8D96-F21A-45BB-A95C-1BC9ED7D277C}|SIMS.Tests\\SIMS.Tests.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\sims.tests\\unittests\\teachermanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8A8D96-F21A-45BB-A95C-1BC9ED7D277C}|SIMS.Tests\\SIMS.Tests.csproj|solutionrelative:sims.tests\\unittests\\teachermanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\wwwroot\\data\\attendances.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\wwwroot\\data\\attendances.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\managers\\adminmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\managers\\adminmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\wwwroot\\data\\subjects.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\wwwroot\\data\\subjects.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\controllers\\admin\\adminclassescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\controllers\\admin\\adminclassescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\controllers\\admin\\adminaccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\controllers\\admin\\adminaccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\wwwroot\\data\\classes.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\wwwroot\\data\\classes.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\controllers\\admin\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\controllers\\admin\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\controllers\\admin\\adminsemesterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\controllers\\admin\\adminsemesterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\controllers\\admin\\adminsubjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\controllers\\admin\\adminsubjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\interfaces\\iclassadminmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\interfaces\\iclassadminmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\interfaces\\iclassgrading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\interfaces\\iclassgrading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\interfaces\\iclassregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\interfaces\\iclassregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\interfaces\\iclassviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\interfaces\\iclassviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\managers\\adminclassmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\managers\\adminclassmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\managers\\adminclassmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\managers\\studentclassmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\managers\\studentclassmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A8A8D96-F21A-45BB-A95C-1BC9ED7D277C}|SIMS.Tests\\SIMS.Tests.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\sims.tests\\unittests\\studentclassmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8A8D96-F21A-45BB-A95C-1BC9ED7D277C}|SIMS.Tests\\SIMS.Tests.csproj|solutionrelative:sims.tests\\unittests\\studentclassmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\managers\\teacherclassmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7A8A8D96-F21A-45BB-A95C-1BC9ED7D277C}|SIMS.Tests\\SIMS.Tests.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\sims.tests\\testsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8A8D96-F21A-45BB-A95C-1BC9ED7D277C}|SIMS.Tests\\SIMS.Tests.csproj|solutionrelative:sims.tests\\testsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\interfaces\\icsvrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\interfaces\\icsvrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\managers\\teachermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\managers\\teachermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\managers\\teacherclassmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\managers\\teacherclassmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\repositories\\csvrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\managers\\studentclassmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\managers\\studentclassmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8A8D96-F21A-45BB-A95C-1BC9ED7D277C}|SIMS.Tests\\SIMS.Tests.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\sims.tests\\sims.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7A8A8D96-F21A-45BB-A95C-1BC9ED7D277C}|SIMS.Tests\\SIMS.Tests.csproj|solutionrelative:sims.tests\\sims.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\repositories\\csvrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\repositories\\csvrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\services\\adminaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\services\\adminaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\services\\adminclassservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\services\\adminclassservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\services\\gradestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\services\\gradestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\views\\teacher\\takeattendance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\teacher\\takeattendance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\views\\admin\\accounts\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\admin\\accounts\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\models\\subjectregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\models\\subjectregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\models\\semester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\models\\semester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\controllers\\student\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\controllers\\student\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\authcsvapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\authcsvapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\authcsvapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\wwwroot\\data\\users.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\wwwroot\\data\\users.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\wwwroot\\data\\grades.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\wwwroot\\data\\grades.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\wwwroot\\data\\attendances.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\wwwroot\\data\\attendances.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\wwwroot\\data\\subjects.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\wwwroot\\data\\subjects.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\controllers\\admin\\adminclassescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\controllers\\admin\\adminclassescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\controllers\\admin\\adminaccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\controllers\\admin\\adminaccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\wwwroot\\data\\classes.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\wwwroot\\data\\classes.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\controllers\\admin\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\controllers\\admin\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\controllers\\admin\\adminsemesterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\controllers\\admin\\adminsemesterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\controllers\\admin\\adminsubjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\controllers\\admin\\adminsubjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\interfaces\\iclassadminmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\interfaces\\iclassadminmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\interfaces\\iclassgrading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\interfaces\\iclassgrading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\interfaces\\iclassregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\interfaces\\iclassregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\interfaces\\iclassviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\interfaces\\iclassviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\services\\adminaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\services\\adminaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\services\\adminclassservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\services\\adminclassservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\services\\gradestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\services\\gradestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\views\\teacher\\takeattendance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\teacher\\takeattendance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\views\\admin\\accounts\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\admin\\accounts\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\models\\subjectregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\models\\subjectregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\models\\semester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\models\\semester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\controllers\\student\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\controllers\\student\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\controllers\\teacher\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\controllers\\teacher\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\controllers\\teacher\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\wwwroot\\css\\enter-grades.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\wwwroot\\css\\enter-grades.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\wwwroot\\css\\enter-grades.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\views\\admin\\accounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\views\\admin\\accounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\admin\\accounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\wwwroot\\css\\take-attendance.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\wwwroot\\css\\take-attendance.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\wwwroot\\css\\take-attendance.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\views\\teacher\\entergrades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\views\\teacher\\entergrades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\teacher\\entergrades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\views\\admin\\semesters\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\views\\admin\\semesters\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\admin\\semesters\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\wwwroot\\css\\manage-semesters.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\wwwroot\\css\\manage-semesters.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\wwwroot\\css\\manage-semesters.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\views\\admin\\subjects\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\views\\admin\\subjects\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\admin\\subjects\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\wwwroot\\css\\manage-subjects.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\wwwroot\\css\\manage-subjects.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\wwwroot\\css\\manage-subjects.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\views\\admin\\classes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\views\\admin\\classes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\admin\\classes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\wwwroot\\css\\manage-classes.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\wwwroot\\css\\manage-classes.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\wwwroot\\css\\manage-classes.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\wwwroot\\css\\admin-dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\wwwroot\\css\\admin-dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\wwwroot\\css\\admin-dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\views\\admin\\accounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\views\\admin\\accounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\admin\\accounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\views\\teacher\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\views\\teacher\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\teacher\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\views\\admin\\subjects\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\views\\admin\\subjects\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\admin\\subjects\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\views\\admin\\subjects\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\views\\admin\\subjects\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\admin\\subjects\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\views\\student\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\views\\student\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\student\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\wwwroot\\css\\student-dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\wwwroot\\css\\student-dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\wwwroot\\css\\student-dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\wwwroot\\css\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\wwwroot\\css\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\wwwroot\\css\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\wwwroot\\css\\teacher-dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\wwwroot\\css\\teacher-dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\wwwroot\\css\\teacher-dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\wwwroot\\data\\subject_registrations.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\wwwroot\\data\\subject_registrations.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\wwwroot\\data\\subject_registrations.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\views\\admin\\semesters\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\views\\admin\\semesters\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\admin\\semesters\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\views\\admin\\semesters\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\views\\admin\\semesters\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\admin\\semesters\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\views\\admin\\classes\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\views\\admin\\classes\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\admin\\classes\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\views\\admin\\classes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\views\\admin\\classes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\views\\admin\\classes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\downloads\\namcuongthuchuy\\authcsvapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|c:\\users\\ricec\\onedrive\\ta\u0300i li\u00EA\u0323u\\namcuongthuchuy\\authcsvapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{15A12F7C-62AE-473E-9906-5A423C7DB5E7}|AuthCsvApp\\AuthCsvApp.csproj|solutionrelative:authcsvapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -322,210 +354,93 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "attendances.csv",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\attendances.csv",
-              "RelativeDocumentMoniker": "AuthCsvApp\\wwwroot\\data\\attendances.csv",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\attendances.csv",
-              "RelativeToolTip": "AuthCsvApp\\wwwroot\\data\\attendances.csv",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2025-04-06T02:53:12.821Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "users.csv",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\users.csv",
-              "RelativeDocumentMoniker": "AuthCsvApp\\wwwroot\\data\\users.csv",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\users.csv",
-              "RelativeToolTip": "AuthCsvApp\\wwwroot\\data\\users.csv",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2025-04-06T02:42:15.676Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AdminClassesController.cs",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Controllers\\Admin\\AdminClassesController.cs",
-              "RelativeDocumentMoniker": "AuthCsvApp\\Controllers\\Admin\\AdminClassesController.cs",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Controllers\\Admin\\AdminClassesController.cs",
-              "RelativeToolTip": "AuthCsvApp\\Controllers\\Admin\\AdminClassesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "ICsvRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Interfaces\\ICsvRepository.cs",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Interfaces\\ICsvRepository.cs",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Interfaces\\ICsvRepository.cs",
+              "RelativeToolTip": "AuthCsvApp\\Interfaces\\ICsvRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T12:14:40.81Z",
+              "WhenOpened": "2025-04-17T07:30:05.721Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "AdminAccountsController.cs",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Controllers\\Admin\\AdminAccountsController.cs",
-              "RelativeDocumentMoniker": "AuthCsvApp\\Controllers\\Admin\\AdminAccountsController.cs",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Controllers\\Admin\\AdminAccountsController.cs",
-              "RelativeToolTip": "AuthCsvApp\\Controllers\\Admin\\AdminAccountsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Title": "TestSetup.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\SIMS.Tests\\TestSetup.cs",
+              "RelativeDocumentMoniker": "SIMS.Tests\\TestSetup.cs",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\SIMS.Tests\\TestSetup.cs",
+              "RelativeToolTip": "SIMS.Tests\\TestSetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T10:48:01.505Z",
+              "WhenOpened": "2025-04-17T07:07:31.931Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IClassAdminManagement.cs",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Interfaces\\IClassAdminManagement.cs",
-              "RelativeDocumentMoniker": "AuthCsvApp\\Interfaces\\IClassAdminManagement.cs",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Interfaces\\IClassAdminManagement.cs",
-              "RelativeToolTip": "AuthCsvApp\\Interfaces\\IClassAdminManagement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "AdminManager.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Managers\\AdminManager.cs",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Managers\\AdminManager.cs",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Managers\\AdminManager.cs",
+              "RelativeToolTip": "AuthCsvApp\\Managers\\AdminManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T16:49:42.306Z",
+              "WhenOpened": "2025-04-17T09:00:31.288Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Subject.cs",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Models\\Subject.cs",
-              "RelativeDocumentMoniker": "AuthCsvApp\\Models\\Subject.cs",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Models\\Subject.cs",
-              "RelativeToolTip": "AuthCsvApp\\Models\\Subject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AdminManagerTests.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\SIMS.Tests\\UnitTests\\AdminManagerTests.cs",
+              "RelativeDocumentMoniker": "SIMS.Tests\\UnitTests\\AdminManagerTests.cs",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\SIMS.Tests\\UnitTests\\AdminManagerTests.cs",
+              "RelativeToolTip": "SIMS.Tests\\UnitTests\\AdminManagerTests.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwBUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T12:09:29.417Z",
+              "WhenOpened": "2025-04-17T09:02:45.522Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "grades.csv",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\grades.csv",
-              "RelativeDocumentMoniker": "AuthCsvApp\\wwwroot\\data\\grades.csv",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\grades.csv",
-              "RelativeToolTip": "AuthCsvApp\\wwwroot\\data\\grades.csv",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2025-04-04T16:02:04.275Z",
+              "Title": "TeacherManagerTests.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\SIMS.Tests\\UnitTests\\TeacherManagerTests.cs",
+              "RelativeDocumentMoniker": "SIMS.Tests\\UnitTests\\TeacherManagerTests.cs",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\SIMS.Tests\\UnitTests\\TeacherManagerTests.cs",
+              "RelativeToolTip": "SIMS.Tests\\UnitTests\\TeacherManagerTests.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAAwN8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T09:43:54.066Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Controllers\\Admin\\AdminController.cs",
-              "RelativeDocumentMoniker": "AuthCsvApp\\Controllers\\Admin\\AdminController.cs",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Controllers\\Admin\\AdminController.cs",
-              "RelativeToolTip": "AuthCsvApp\\Controllers\\Admin\\AdminController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "StudentClassManagerTests.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\SIMS.Tests\\UnitTests\\StudentClassManagerTests.cs",
+              "RelativeDocumentMoniker": "SIMS.Tests\\UnitTests\\StudentClassManagerTests.cs",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\SIMS.Tests\\UnitTests\\StudentClassManagerTests.cs",
+              "RelativeToolTip": "SIMS.Tests\\UnitTests\\StudentClassManagerTests.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA4wH8AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T14:55:34.494Z",
+              "WhenOpened": "2025-04-17T07:18:32.981Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "subjects.csv",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\subjects.csv",
-              "RelativeDocumentMoniker": "AuthCsvApp\\wwwroot\\data\\subjects.csv",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\subjects.csv",
-              "RelativeToolTip": "AuthCsvApp\\wwwroot\\data\\subjects.csv",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2025-04-04T21:14:49.196Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "classes.csv",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\classes.csv",
-              "RelativeDocumentMoniker": "AuthCsvApp\\wwwroot\\data\\classes.csv",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\classes.csv",
-              "RelativeToolTip": "AuthCsvApp\\wwwroot\\data\\classes.csv",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2025-04-06T02:43:22.339Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AdminSemestersController.cs",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Controllers\\Admin\\AdminSemestersController.cs",
-              "RelativeDocumentMoniker": "AuthCsvApp\\Controllers\\Admin\\AdminSemestersController.cs",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Controllers\\Admin\\AdminSemestersController.cs",
-              "RelativeToolTip": "AuthCsvApp\\Controllers\\Admin\\AdminSemestersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAM4BAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T11:54:49.878Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AdminSubjectsController.cs",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Controllers\\Admin\\AdminSubjectsController.cs",
-              "RelativeDocumentMoniker": "AuthCsvApp\\Controllers\\Admin\\AdminSubjectsController.cs",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Controllers\\Admin\\AdminSubjectsController.cs",
-              "RelativeToolTip": "AuthCsvApp\\Controllers\\Admin\\AdminSubjectsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMcBAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T12:29:47.74Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IClassGrading.cs",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Interfaces\\IClassGrading.cs",
-              "RelativeDocumentMoniker": "AuthCsvApp\\Interfaces\\IClassGrading.cs",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Interfaces\\IClassGrading.cs",
-              "RelativeToolTip": "AuthCsvApp\\Interfaces\\IClassGrading.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T16:55:36.32Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IClassRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Interfaces\\IClassRegistration.cs",
-              "RelativeDocumentMoniker": "AuthCsvApp\\Interfaces\\IClassRegistration.cs",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Interfaces\\IClassRegistration.cs",
-              "RelativeToolTip": "AuthCsvApp\\Interfaces\\IClassRegistration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T16:54:11.326Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IClassViewer.cs",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Interfaces\\IClassViewer.cs",
-              "RelativeDocumentMoniker": "AuthCsvApp\\Interfaces\\IClassViewer.cs",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Interfaces\\IClassViewer.cs",
-              "RelativeToolTip": "AuthCsvApp\\Interfaces\\IClassViewer.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAApwAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T16:51:05.465Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "AdminClassManager.cs",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Managers\\AdminClassManager.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Managers\\AdminClassManager.cs",
               "RelativeDocumentMoniker": "AuthCsvApp\\Managers\\AdminClassManager.cs",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Managers\\AdminClassManager.cs",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Managers\\AdminClassManager.cs",
               "RelativeToolTip": "AuthCsvApp\\Managers\\AdminClassManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -534,115 +449,141 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "StudentClassManager.cs",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Managers\\StudentClassManager.cs",
-              "RelativeDocumentMoniker": "AuthCsvApp\\Managers\\StudentClassManager.cs",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Managers\\StudentClassManager.cs",
-              "RelativeToolTip": "AuthCsvApp\\Managers\\StudentClassManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "TeacherManager.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Managers\\TeacherManager.cs",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Managers\\TeacherManager.cs",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Managers\\TeacherManager.cs",
+              "RelativeToolTip": "AuthCsvApp\\Managers\\TeacherManager.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwFMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T17:02:20.886Z",
+              "WhenOpened": "2025-04-17T09:41:36.797Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 8,
               "Title": "TeacherClassManager.cs",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Managers\\TeacherClassManager.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Managers\\TeacherClassManager.cs",
               "RelativeDocumentMoniker": "AuthCsvApp\\Managers\\TeacherClassManager.cs",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Managers\\TeacherClassManager.cs",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Managers\\TeacherClassManager.cs",
               "RelativeToolTip": "AuthCsvApp\\Managers\\TeacherClassManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-05T17:00:41.991Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 9,
+              "Title": "StudentClassManager.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Managers\\StudentClassManager.cs",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Managers\\StudentClassManager.cs",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Managers\\StudentClassManager.cs",
+              "RelativeToolTip": "AuthCsvApp\\Managers\\StudentClassManager.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T17:02:20.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SIMS.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\SIMS.Tests\\SIMS.Tests.csproj",
+              "RelativeDocumentMoniker": "SIMS.Tests\\SIMS.Tests.csproj",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\SIMS.Tests\\SIMS.Tests.csproj",
+              "RelativeToolTip": "SIMS.Tests\\SIMS.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-17T07:04:55.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "CsvRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Repositories\\CsvRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Repositories\\CsvRepository.cs",
               "RelativeDocumentMoniker": "AuthCsvApp\\Repositories\\CsvRepository.cs",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Repositories\\CsvRepository.cs",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Repositories\\CsvRepository.cs",
               "RelativeToolTip": "AuthCsvApp\\Repositories\\CsvRepository.cs",
-              "ViewState": "AgIAALQAAAAAAAAAAAAcwNIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGcBAAAAAAAAAAAUwHcBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-04T11:33:04.558Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "AdminAccountService.cs",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Services\\AdminAccountService.cs",
-              "RelativeDocumentMoniker": "AuthCsvApp\\Services\\AdminAccountService.cs",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Services\\AdminAccountService.cs",
-              "RelativeToolTip": "AuthCsvApp\\Services\\AdminAccountService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T11:36:31.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "AdminClassService.cs",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Services\\AdminClassService.cs",
-              "RelativeDocumentMoniker": "AuthCsvApp\\Services\\AdminClassService.cs",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Services\\AdminClassService.cs",
-              "RelativeToolTip": "AuthCsvApp\\Services\\AdminClassService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T17:05:09.802Z",
+              "DocumentIndex": 14,
+              "Title": "users.csv",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\users.csv",
+              "RelativeDocumentMoniker": "AuthCsvApp\\wwwroot\\data\\users.csv",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\users.csv",
+              "RelativeToolTip": "AuthCsvApp\\wwwroot\\data\\users.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-04-06T02:42:15.676Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "AuthenticationService.cs",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Services\\AuthenticationService.cs",
-              "RelativeDocumentMoniker": "AuthCsvApp\\Services\\AuthenticationService.cs",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Services\\AuthenticationService.cs",
-              "RelativeToolTip": "AuthCsvApp\\Services\\AuthenticationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Models\\Subject.cs",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Models\\Subject.cs",
+              "RelativeToolTip": "AuthCsvApp\\Models\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T11:42:14.135Z",
+              "WhenOpened": "2025-04-04T12:09:29.417Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "GradeStrategy.cs",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Services\\GradeStrategy.cs",
-              "RelativeDocumentMoniker": "AuthCsvApp\\Services\\GradeStrategy.cs",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Services\\GradeStrategy.cs",
-              "RelativeToolTip": "AuthCsvApp\\Services\\GradeStrategy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "DocumentIndex": 25,
+              "Title": "IClassAdminManagement.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Interfaces\\IClassAdminManagement.cs",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Interfaces\\IClassAdminManagement.cs",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Interfaces\\IClassAdminManagement.cs",
+              "RelativeToolTip": "AuthCsvApp\\Interfaces\\IClassAdminManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T15:18:50.62Z",
+              "WhenOpened": "2025-04-05T16:49:42.306Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "TakeAttendance.cshtml",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Teacher\\TakeAttendance.cshtml",
-              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Teacher\\TakeAttendance.cshtml",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Teacher\\TakeAttendance.cshtml",
-              "RelativeToolTip": "AuthCsvApp\\Views\\Teacher\\TakeAttendance.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAEsAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-04T15:59:40.477Z",
+              "DocumentIndex": 19,
+              "Title": "AdminAccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Controllers\\Admin\\AdminAccountsController.cs",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Controllers\\Admin\\AdminAccountsController.cs",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Controllers\\Admin\\AdminAccountsController.cs",
+              "RelativeToolTip": "AuthCsvApp\\Controllers\\Admin\\AdminAccountsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T10:48:01.505Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 18,
+              "Title": "AdminClassesController.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Controllers\\Admin\\AdminClassesController.cs",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Controllers\\Admin\\AdminClassesController.cs",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Controllers\\Admin\\AdminClassesController.cs",
+              "RelativeToolTip": "AuthCsvApp\\Controllers\\Admin\\AdminClassesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T12:14:40.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Program.cs",
               "RelativeDocumentMoniker": "AuthCsvApp\\Program.cs",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Program.cs",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Program.cs",
               "RelativeToolTip": "AuthCsvApp\\Program.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAQwAoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -651,11 +592,219 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 13,
+              "Title": "AuthCsvApp.csproj",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\AuthCsvApp.csproj",
+              "RelativeDocumentMoniker": "AuthCsvApp\\AuthCsvApp.csproj",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\AuthCsvApp.csproj",
+              "RelativeToolTip": "AuthCsvApp\\AuthCsvApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-26T01:08:19.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "attendances.csv",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\attendances.csv",
+              "RelativeDocumentMoniker": "AuthCsvApp\\wwwroot\\data\\attendances.csv",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\attendances.csv",
+              "RelativeToolTip": "AuthCsvApp\\wwwroot\\data\\attendances.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-04-06T02:53:12.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "grades.csv",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\grades.csv",
+              "RelativeDocumentMoniker": "AuthCsvApp\\wwwroot\\data\\grades.csv",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\grades.csv",
+              "RelativeToolTip": "AuthCsvApp\\wwwroot\\data\\grades.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-04-04T16:02:04.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Controllers\\Admin\\AdminController.cs",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Controllers\\Admin\\AdminController.cs",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Controllers\\Admin\\AdminController.cs",
+              "RelativeToolTip": "AuthCsvApp\\Controllers\\Admin\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:55:34.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "subjects.csv",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\subjects.csv",
+              "RelativeDocumentMoniker": "AuthCsvApp\\wwwroot\\data\\subjects.csv",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\subjects.csv",
+              "RelativeToolTip": "AuthCsvApp\\wwwroot\\data\\subjects.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-04-04T21:14:49.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "classes.csv",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\classes.csv",
+              "RelativeDocumentMoniker": "AuthCsvApp\\wwwroot\\data\\classes.csv",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\classes.csv",
+              "RelativeToolTip": "AuthCsvApp\\wwwroot\\data\\classes.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-04-06T02:43:22.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdminSemestersController.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Controllers\\Admin\\AdminSemestersController.cs",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Controllers\\Admin\\AdminSemestersController.cs",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Controllers\\Admin\\AdminSemestersController.cs",
+              "RelativeToolTip": "AuthCsvApp\\Controllers\\Admin\\AdminSemestersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAM4BAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T11:54:49.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AdminSubjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Controllers\\Admin\\AdminSubjectsController.cs",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Controllers\\Admin\\AdminSubjectsController.cs",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Controllers\\Admin\\AdminSubjectsController.cs",
+              "RelativeToolTip": "AuthCsvApp\\Controllers\\Admin\\AdminSubjectsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMcBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T12:29:47.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IClassGrading.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Interfaces\\IClassGrading.cs",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Interfaces\\IClassGrading.cs",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Interfaces\\IClassGrading.cs",
+              "RelativeToolTip": "AuthCsvApp\\Interfaces\\IClassGrading.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T16:55:36.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IClassRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Interfaces\\IClassRegistration.cs",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Interfaces\\IClassRegistration.cs",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Interfaces\\IClassRegistration.cs",
+              "RelativeToolTip": "AuthCsvApp\\Interfaces\\IClassRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T16:54:11.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IClassViewer.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Interfaces\\IClassViewer.cs",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Interfaces\\IClassViewer.cs",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Interfaces\\IClassViewer.cs",
+              "RelativeToolTip": "AuthCsvApp\\Interfaces\\IClassViewer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAApwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T16:51:05.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AdminAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Services\\AdminAccountService.cs",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Services\\AdminAccountService.cs",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Services\\AdminAccountService.cs",
+              "RelativeToolTip": "AuthCsvApp\\Services\\AdminAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T11:36:31.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AdminClassService.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Services\\AdminClassService.cs",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Services\\AdminClassService.cs",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Services\\AdminClassService.cs",
+              "RelativeToolTip": "AuthCsvApp\\Services\\AdminClassService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T17:05:09.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Services\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "AuthCsvApp\\Services\\AuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T11:42:14.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GradeStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Services\\GradeStrategy.cs",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Services\\GradeStrategy.cs",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Services\\GradeStrategy.cs",
+              "RelativeToolTip": "AuthCsvApp\\Services\\GradeStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T15:18:50.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TakeAttendance.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Teacher\\TakeAttendance.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Teacher\\TakeAttendance.cshtml",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Teacher\\TakeAttendance.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Teacher\\TakeAttendance.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAIBZwEsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T15:59:40.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
               "Title": "Add.cshtml",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Accounts\\Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Accounts\\Add.cshtml",
               "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Admin\\Accounts\\Add.cshtml",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Accounts\\Add.cshtml",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Accounts\\Add.cshtml",
               "RelativeToolTip": "AuthCsvApp\\Views\\Admin\\Accounts\\Add.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -664,11 +813,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 35,
               "Title": "SubjectRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Models\\SubjectRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Models\\SubjectRegistration.cs",
               "RelativeDocumentMoniker": "AuthCsvApp\\Models\\SubjectRegistration.cs",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Models\\SubjectRegistration.cs",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Models\\SubjectRegistration.cs",
               "RelativeToolTip": "AuthCsvApp\\Models\\SubjectRegistration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -677,11 +826,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 36,
               "Title": "Semester.cs",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Models\\Semester.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Models\\Semester.cs",
               "RelativeDocumentMoniker": "AuthCsvApp\\Models\\Semester.cs",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Models\\Semester.cs",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Models\\Semester.cs",
               "RelativeToolTip": "AuthCsvApp\\Models\\Semester.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -690,11 +839,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 37,
               "Title": "Notification.cs",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Models\\Notification.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Models\\Notification.cs",
               "RelativeDocumentMoniker": "AuthCsvApp\\Models\\Notification.cs",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Models\\Notification.cs",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Models\\Notification.cs",
               "RelativeToolTip": "AuthCsvApp\\Models\\Notification.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -703,11 +852,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 38,
               "Title": "Grade.cs",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Models\\Grade.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Models\\Grade.cs",
               "RelativeDocumentMoniker": "AuthCsvApp\\Models\\Grade.cs",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Models\\Grade.cs",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Models\\Grade.cs",
               "RelativeToolTip": "AuthCsvApp\\Models\\Grade.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -716,11 +865,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 39,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "AuthCsvApp\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "AuthCsvApp\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -729,11 +878,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 40,
               "Title": "Attendance.cs",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Models\\Attendance.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Models\\Attendance.cs",
               "RelativeDocumentMoniker": "AuthCsvApp\\Models\\Attendance.cs",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Models\\Attendance.cs",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Models\\Attendance.cs",
               "RelativeToolTip": "AuthCsvApp\\Models\\Attendance.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -742,11 +891,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 41,
               "Title": "Class.cs",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Models\\Class.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Models\\Class.cs",
               "RelativeDocumentMoniker": "AuthCsvApp\\Models\\Class.cs",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Models\\Class.cs",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Models\\Class.cs",
               "RelativeToolTip": "AuthCsvApp\\Models\\Class.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -755,11 +904,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 42,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Controllers\\AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "AuthCsvApp\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Controllers\\AuthController.cs",
               "RelativeToolTip": "AuthCsvApp\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -768,11 +917,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 43,
               "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Controllers\\Student\\StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Controllers\\Student\\StudentController.cs",
               "RelativeDocumentMoniker": "AuthCsvApp\\Controllers\\Student\\StudentController.cs",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Controllers\\Student\\StudentController.cs",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Controllers\\Student\\StudentController.cs",
               "RelativeToolTip": "AuthCsvApp\\Controllers\\Student\\StudentController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -781,11 +930,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 44,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "AuthCsvApp\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Controllers\\HomeController.cs",
               "RelativeToolTip": "AuthCsvApp\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -794,507 +943,536 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "AuthCsvApp.csproj",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\AuthCsvApp.csproj",
-              "RelativeDocumentMoniker": "AuthCsvApp\\AuthCsvApp.csproj",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\AuthCsvApp.csproj",
-              "RelativeToolTip": "AuthCsvApp\\AuthCsvApp.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-26T01:08:19.285Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 45,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Models\\User.cs",
               "RelativeDocumentMoniker": "AuthCsvApp\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Models\\User.cs",
               "RelativeToolTip": "AuthCsvApp\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T11:53:40.358Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "TeacherController.cs",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Controllers\\Teacher\\TeacherController.cs",
-              "RelativeDocumentMoniker": "AuthCsvApp\\Controllers\\Teacher\\TeacherController.cs",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Controllers\\Teacher\\TeacherController.cs",
-              "RelativeToolTip": "AuthCsvApp\\Controllers\\Teacher\\TeacherController.cs",
-              "ViewState": "AgIAAEoCAAAAAAAAAAAswGoCAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T11:57:24.36Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "EnterGrades.cshtml",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Teacher\\EnterGrades.cshtml",
-              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Teacher\\EnterGrades.cshtml",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Teacher\\EnterGrades.cshtml",
-              "RelativeToolTip": "AuthCsvApp\\Views\\Teacher\\EnterGrades.cshtml",
-              "ViewState": "AgIAADEAAAAAAAAAAAAowFAAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-04T15:46:57.886Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Semesters\\Index.cshtml",
-              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Admin\\Semesters\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Semesters\\Index.cshtml",
-              "RelativeToolTip": "AuthCsvApp\\Views\\Admin\\Semesters\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-04T13:50:37.152Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Subjects\\Index.cshtml",
-              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Admin\\Subjects\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Subjects\\Index.cshtml",
-              "RelativeToolTip": "AuthCsvApp\\Views\\Admin\\Subjects\\Index.cshtml",
-              "ViewState": "AgIAADsAAAAAAAAAAAAowFoAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-04T13:52:39.859Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Accounts\\Index.cshtml",
-              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Admin\\Accounts\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Accounts\\Index.cshtml",
-              "RelativeToolTip": "AuthCsvApp\\Views\\Admin\\Accounts\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-04T11:15:20.583Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Accounts\\Edit.cshtml",
-              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Admin\\Accounts\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Accounts\\Edit.cshtml",
-              "RelativeToolTip": "AuthCsvApp\\Views\\Admin\\Accounts\\Edit.cshtml",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-04T11:16:05.981Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "enter-grades.css",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\enter-grades.css",
-              "RelativeDocumentMoniker": "AuthCsvApp\\wwwroot\\css\\enter-grades.css",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\enter-grades.css",
-              "RelativeToolTip": "AuthCsvApp\\wwwroot\\css\\enter-grades.css",
-              "ViewState": "AgIAALkAAAAAAAAAAAAUwNkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-05T03:03:52.464Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "take-attendance.css",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\take-attendance.css",
-              "RelativeDocumentMoniker": "AuthCsvApp\\wwwroot\\css\\take-attendance.css",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\take-attendance.css",
-              "RelativeToolTip": "AuthCsvApp\\wwwroot\\css\\take-attendance.css",
-              "ViewState": "AgIAAMYAAAAAAAAAAAAAAMYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-05T03:07:03.162Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "Add.cshtml",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Subjects\\Add.cshtml",
-              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Admin\\Subjects\\Add.cshtml",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Subjects\\Add.cshtml",
-              "RelativeToolTip": "AuthCsvApp\\Views\\Admin\\Subjects\\Add.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAGwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-04T13:51:23.278Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "Dashboard.cshtml",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Dashboard.cshtml",
-              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Admin\\Dashboard.cshtml",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Dashboard.cshtml",
-              "RelativeToolTip": "AuthCsvApp\\Views\\Admin\\Dashboard.cshtml",
-              "ViewState": "AgIAADsAAAAAAAAAAAAowD8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-25T15:15:56.284Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "manage-semesters.css",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\manage-semesters.css",
-              "RelativeDocumentMoniker": "AuthCsvApp\\wwwroot\\css\\manage-semesters.css",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\manage-semesters.css",
-              "RelativeToolTip": "AuthCsvApp\\wwwroot\\css\\manage-semesters.css",
-              "ViewState": "AgIAAL8AAAAAAAAAAAAUwN8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-05T02:59:16.393Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "Dashboard.cshtml",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Teacher\\Dashboard.cshtml",
-              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Teacher\\Dashboard.cshtml",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Teacher\\Dashboard.cshtml",
-              "RelativeToolTip": "AuthCsvApp\\Views\\Teacher\\Dashboard.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-04T15:51:06.641Z"
+              "WhenOpened": "2025-03-25T11:53:40.358Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 46,
-              "Title": "manage-subjects.css",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\manage-subjects.css",
-              "RelativeDocumentMoniker": "AuthCsvApp\\wwwroot\\css\\manage-subjects.css",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\manage-subjects.css",
-              "RelativeToolTip": "AuthCsvApp\\wwwroot\\css\\manage-subjects.css",
-              "ViewState": "AgIAAL8AAAAAAAAAAAAUwN8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-05T02:55:23.757Z"
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Controllers\\Teacher\\TeacherController.cs",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Controllers\\Teacher\\TeacherController.cs",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Controllers\\Teacher\\TeacherController.cs",
+              "RelativeToolTip": "AuthCsvApp\\Controllers\\Teacher\\TeacherController.cs",
+              "ViewState": "AgIAAEoCAAAAAAAAAAAswGoCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T11:57:24.36Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "manage-classes.css",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\manage-classes.css",
-              "RelativeDocumentMoniker": "AuthCsvApp\\wwwroot\\css\\manage-classes.css",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\manage-classes.css",
-              "RelativeToolTip": "AuthCsvApp\\wwwroot\\css\\manage-classes.css",
-              "ViewState": "AgIAAJ4AAAAAAAAAAAAUwL4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-05T02:52:28.299Z"
+              "DocumentIndex": 50,
+              "Title": "EnterGrades.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Teacher\\EnterGrades.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Teacher\\EnterGrades.cshtml",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Teacher\\EnterGrades.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Teacher\\EnterGrades.cshtml",
+              "ViewState": "AgIAADEAAAAAAAAAAAAowFAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T15:46:57.886Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 51,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Classes\\Index.cshtml",
-              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Admin\\Classes\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Classes\\Index.cshtml",
-              "RelativeToolTip": "AuthCsvApp\\Views\\Admin\\Classes\\Index.cshtml",
-              "ViewState": "AgIAACwAAAAAAAAAAAAowEsAAAAGAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Semesters\\Index.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Admin\\Semesters\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Semesters\\Index.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Admin\\Semesters\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-04T14:37:33.303Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "admin-dashboard.css",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\admin-dashboard.css",
-              "RelativeDocumentMoniker": "AuthCsvApp\\wwwroot\\css\\admin-dashboard.css",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\admin-dashboard.css",
-              "RelativeToolTip": "AuthCsvApp\\wwwroot\\css\\admin-dashboard.css",
-              "ViewState": "AgIAAMkAAAAAAAAAAAAUwOkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-05T02:45:18.021Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Auth\\Login.cshtml",
-              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Auth\\Login.cshtml",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Auth\\Login.cshtml",
-              "RelativeToolTip": "AuthCsvApp\\Views\\Auth\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-25T12:12:27.805Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 65,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "AuthCsvApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-04T09:30:05.439Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "Dashboard.cshtml",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Student\\Dashboard.cshtml",
-              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Student\\Dashboard.cshtml",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Student\\Dashboard.cshtml",
-              "RelativeToolTip": "AuthCsvApp\\Views\\Student\\Dashboard.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAACsAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-25T15:37:57.558Z"
+              "WhenOpened": "2025-04-04T13:50:37.152Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 53,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Subjects\\Edit.cshtml",
-              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Admin\\Subjects\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Subjects\\Edit.cshtml",
-              "RelativeToolTip": "AuthCsvApp\\Views\\Admin\\Subjects\\Edit.cshtml",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Subjects\\Index.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Admin\\Subjects\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Subjects\\Index.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Admin\\Subjects\\Index.cshtml",
+              "ViewState": "AgIAADsAAAAAAAAAAAAowFoAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-04T13:52:01.888Z"
+              "WhenOpened": "2025-04-04T13:52:39.859Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 58,
-              "Title": "register.css",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\register.css",
-              "RelativeDocumentMoniker": "AuthCsvApp\\wwwroot\\css\\register.css",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\register.css",
-              "RelativeToolTip": "AuthCsvApp\\wwwroot\\css\\register.css",
-              "ViewState": "AgIAAIQAAAAAAAAAAAAUwJMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-05T02:27:31.79Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "student-dashboard.css",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\student-dashboard.css",
-              "RelativeDocumentMoniker": "AuthCsvApp\\wwwroot\\css\\student-dashboard.css",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\student-dashboard.css",
-              "RelativeToolTip": "AuthCsvApp\\wwwroot\\css\\student-dashboard.css",
-              "ViewState": "AgIAACkBAAAAAAAAAAAUwEkBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-05T02:32:10.467Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Auth\\Register.cshtml",
-              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Auth\\Register.cshtml",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Auth\\Register.cshtml",
-              "RelativeToolTip": "AuthCsvApp\\Views\\Auth\\Register.cshtml",
-              "ViewState": "AgIAACkAAAAAAAAAAAAowEgAAAABAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Accounts\\Index.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Admin\\Accounts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Accounts\\Index.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Admin\\Accounts\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-25T12:10:04.084Z"
+              "WhenOpened": "2025-04-04T11:15:20.583Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "login.css",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\login.css",
-              "RelativeDocumentMoniker": "AuthCsvApp\\wwwroot\\css\\login.css",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\login.css",
-              "RelativeToolTip": "AuthCsvApp\\wwwroot\\css\\login.css",
-              "ViewState": "AgIAAH0AAAAAAAAAAAAUwJ0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-05T02:16:05.318Z"
+              "DocumentIndex": 48,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Accounts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Admin\\Accounts\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Accounts\\Edit.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Admin\\Accounts\\Edit.cshtml",
+              "ViewState": "AgIAAF0AAAAAAAAAAIBZwAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T11:16:05.981Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "AuthCsvApp\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "AuthCsvApp\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "DocumentIndex": 47,
+              "Title": "enter-grades.css",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\enter-grades.css",
+              "RelativeDocumentMoniker": "AuthCsvApp\\wwwroot\\css\\enter-grades.css",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\enter-grades.css",
+              "RelativeToolTip": "AuthCsvApp\\wwwroot\\css\\enter-grades.css",
+              "ViewState": "AgIAALkAAAAAAAAAAAAUwNkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-05T02:08:50.806Z"
+              "WhenOpened": "2025-04-05T03:03:52.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "take-attendance.css",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\take-attendance.css",
+              "RelativeDocumentMoniker": "AuthCsvApp\\wwwroot\\css\\take-attendance.css",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\take-attendance.css",
+              "RelativeToolTip": "AuthCsvApp\\wwwroot\\css\\take-attendance.css",
+              "ViewState": "AgIAAMAAAAAAAAAAAIBZwMYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-05T03:07:03.162Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 62,
-              "Title": "teacher-dashboard.css",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\teacher-dashboard.css",
-              "RelativeDocumentMoniker": "AuthCsvApp\\wwwroot\\css\\teacher-dashboard.css",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\teacher-dashboard.css",
-              "RelativeToolTip": "AuthCsvApp\\wwwroot\\css\\teacher-dashboard.css",
-              "ViewState": "AgIAAI4AAAAAAAAAAAAUwK4AAAAAAAAAAAAAAA==",
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Subjects\\Add.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Admin\\Subjects\\Add.cshtml",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Subjects\\Add.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Admin\\Subjects\\Add.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAIBZwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T13:51:23.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAADsAAAAAAAAAAAAowD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T15:15:56.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "manage-semesters.css",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\manage-semesters.css",
+              "RelativeDocumentMoniker": "AuthCsvApp\\wwwroot\\css\\manage-semesters.css",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\manage-semesters.css",
+              "RelativeToolTip": "AuthCsvApp\\wwwroot\\css\\manage-semesters.css",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAUwN8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-05T02:10:13.001Z"
+              "WhenOpened": "2025-04-05T02:59:16.393Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "AuthCsvApp\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 60,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Teacher\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Teacher\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Teacher\\Dashboard.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Teacher\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-04T09:10:08.248Z"
+              "WhenOpened": "2025-04-04T15:51:06.641Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "AuthCsvApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAAAGUAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-25T12:12:58.002Z"
+              "DocumentIndex": 54,
+              "Title": "manage-subjects.css",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\manage-subjects.css",
+              "RelativeDocumentMoniker": "AuthCsvApp\\wwwroot\\css\\manage-subjects.css",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\manage-subjects.css",
+              "RelativeToolTip": "AuthCsvApp\\wwwroot\\css\\manage-subjects.css",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAUwN8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-05T02:55:23.757Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "AuthCsvApp\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-27T11:29:40.304Z"
+              "DocumentIndex": 56,
+              "Title": "manage-classes.css",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\manage-classes.css",
+              "RelativeDocumentMoniker": "AuthCsvApp\\wwwroot\\css\\manage-classes.css",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\manage-classes.css",
+              "RelativeToolTip": "AuthCsvApp\\wwwroot\\css\\manage-classes.css",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAUwL4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-05T02:52:28.299Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 55,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "AuthCsvApp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Classes\\Index.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Admin\\Classes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Classes\\Index.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Admin\\Classes\\Index.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAowEsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-27T11:29:39.205Z"
+              "WhenOpened": "2025-04-04T14:37:33.303Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "AuthCsvApp\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-04T09:34:35.221Z"
+              "DocumentIndex": 57,
+              "Title": "admin-dashboard.css",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\admin-dashboard.css",
+              "RelativeDocumentMoniker": "AuthCsvApp\\wwwroot\\css\\admin-dashboard.css",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\admin-dashboard.css",
+              "RelativeToolTip": "AuthCsvApp\\wwwroot\\css\\admin-dashboard.css",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAUwOkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-05T02:45:18.021Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 68,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "AuthCsvApp\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-04T09:34:36.935Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 71,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Semesters\\Edit.cshtml",
-              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Admin\\Semesters\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Semesters\\Edit.cshtml",
-              "RelativeToolTip": "AuthCsvApp\\Views\\Admin\\Semesters\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-04T13:49:50.556Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 70,
-              "Title": "subject_registrations.csv",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\subject_registrations.csv",
-              "RelativeDocumentMoniker": "AuthCsvApp\\wwwroot\\data\\subject_registrations.csv",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\subject_registrations.csv",
-              "RelativeToolTip": "AuthCsvApp\\wwwroot\\data\\subject_registrations.csv",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2025-04-04T21:14:50.115Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 72,
-              "Title": "Add.cshtml",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Semesters\\Add.cshtml",
-              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Admin\\Semesters\\Add.cshtml",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Semesters\\Add.cshtml",
-              "RelativeToolTip": "AuthCsvApp\\Views\\Admin\\Semesters\\Add.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-04T13:49:07.471Z"
+              "WhenOpened": "2025-03-25T12:12:27.805Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 73,
-              "Title": "Add.cshtml",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Classes\\Add.cshtml",
-              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Admin\\Classes\\Add.cshtml",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Classes\\Add.cshtml",
-              "RelativeToolTip": "AuthCsvApp\\Views\\Admin\\Classes\\Add.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAUwC4AAAA5AAAAAAAAAA==",
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-04T14:35:16.437Z"
+              "WhenOpened": "2025-04-04T09:30:05.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Student\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Student\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Student\\Dashboard.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Student\\Dashboard.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAIBZwCsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T15:37:57.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Subjects\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Admin\\Subjects\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Subjects\\Edit.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Admin\\Subjects\\Edit.cshtml",
+              "ViewState": "AgIAAGMAAAAAAAAAAIBZwAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T13:52:01.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "register.css",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\register.css",
+              "RelativeDocumentMoniker": "AuthCsvApp\\wwwroot\\css\\register.css",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\register.css",
+              "RelativeToolTip": "AuthCsvApp\\wwwroot\\css\\register.css",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAUwJMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-05T02:27:31.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "student-dashboard.css",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\student-dashboard.css",
+              "RelativeDocumentMoniker": "AuthCsvApp\\wwwroot\\css\\student-dashboard.css",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\student-dashboard.css",
+              "RelativeToolTip": "AuthCsvApp\\wwwroot\\css\\student-dashboard.css",
+              "ViewState": "AgIAACkBAAAAAAAAAAAUwEkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-05T02:32:10.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Auth\\Register.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAowEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T12:10:04.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "login.css",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\login.css",
+              "RelativeDocumentMoniker": "AuthCsvApp\\wwwroot\\css\\login.css",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\login.css",
+              "RelativeToolTip": "AuthCsvApp\\wwwroot\\css\\login.css",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAUwJ0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-05T02:16:05.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "AuthCsvApp\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "AuthCsvApp\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-05T02:08:50.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "teacher-dashboard.css",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\teacher-dashboard.css",
+              "RelativeDocumentMoniker": "AuthCsvApp\\wwwroot\\css\\teacher-dashboard.css",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\teacher-dashboard.css",
+              "RelativeToolTip": "AuthCsvApp\\wwwroot\\css\\teacher-dashboard.css",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAUwK4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-05T02:10:13.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBZwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T09:10:08.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFcAAAAAAAAAAIBZwGUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T12:12:58.002Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 74,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Classes\\Edit.cshtml",
-              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Admin\\Classes\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Classes\\Edit.cshtml",
-              "RelativeToolTip": "AuthCsvApp\\Views\\Admin\\Classes\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAA5AAAAAAAAAA==",
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-04T14:33:30.146Z"
+              "WhenOpened": "2025-03-27T11:29:40.304Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 75,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\appsettings.json",
-              "RelativeDocumentMoniker": "AuthCsvApp\\appsettings.json",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\appsettings.json",
-              "RelativeToolTip": "AuthCsvApp\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-27T12:49:49.132Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 76,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "AuthCsvApp\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\Properties\\launchSettings.json",
-              "RelativeToolTip": "AuthCsvApp\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-31T15:19:12.641Z"
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T11:29:39.205Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 77,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T09:34:35.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T09:34:36.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Semesters\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Admin\\Semesters\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Semesters\\Edit.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Admin\\Semesters\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T13:49:50.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "subject_registrations.csv",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\subject_registrations.csv",
+              "RelativeDocumentMoniker": "AuthCsvApp\\wwwroot\\data\\subject_registrations.csv",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\subject_registrations.csv",
+              "RelativeToolTip": "AuthCsvApp\\wwwroot\\data\\subject_registrations.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-04-04T21:14:50.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Semesters\\Add.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Admin\\Semesters\\Add.cshtml",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Semesters\\Add.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Admin\\Semesters\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T13:49:07.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Classes\\Add.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Admin\\Classes\\Add.cshtml",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Classes\\Add.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Admin\\Classes\\Add.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwC4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T14:35:16.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Classes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Views\\Admin\\Classes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Views\\Admin\\Classes\\Edit.cshtml",
+              "RelativeToolTip": "AuthCsvApp\\Views\\Admin\\Classes\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T14:33:30.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthCsvApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\appsettings.json",
+              "RelativeToolTip": "AuthCsvApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-27T12:49:49.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AuthCsvApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AuthCsvApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-31T15:19:12.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\appsettings.Development.json",
               "RelativeDocumentMoniker": "AuthCsvApp\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ricec\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\NamCuongThucHuy\\AuthCsvApp\\appsettings.Development.json",
               "RelativeToolTip": "AuthCsvApp\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-27T13:31:58.391Z"
+              "WhenOpened": "2025-03-27T13:31:58.391Z",
+              "EditorCaption": ""
             }
           ]
         }

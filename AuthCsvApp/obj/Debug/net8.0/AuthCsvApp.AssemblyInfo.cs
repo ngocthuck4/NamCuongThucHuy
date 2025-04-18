@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AuthCsvApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7cef8cb965fe88266c7dab35242ae5a61f6da3e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d56e1554d0b7ca013ff6fbe9ee4b0d08537b2c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("AuthCsvApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AuthCsvApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

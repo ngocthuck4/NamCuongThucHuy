@@ -1,7 +1,5 @@
-﻿
-using AuthCsvApp.Interfaces;
+﻿using AuthCsvApp.Interfaces;
 using AuthCsvApp.Models;
-using AuthCsvApp.Repositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,10 +8,10 @@ namespace AuthCsvApp.Managers
 {
     public class StudentClassManager : IClassViewer, IClassRegistration
     {
-        private readonly CsvRepository _repository;
+        private readonly ICsvRepository _repository; // Sửa từ CsvRepository thành ICsvRepository
         private readonly string _studentUsername;
 
-        public StudentClassManager(CsvRepository repository, string studentUsername)
+        public StudentClassManager(ICsvRepository repository, string studentUsername)
         {
             _repository = repository;
             _studentUsername = studentUsername;
@@ -25,6 +23,7 @@ namespace AuthCsvApp.Managers
                 .Where(r => r.StudentUsername == _studentUsername)
                 .Select(r => r.ClassId)
                 .ToList();
+
             return _repository.ReadClasses().Where(c => registrations.Contains(c.Id)).ToList();
         }
 
@@ -32,6 +31,7 @@ namespace AuthCsvApp.Managers
         {
             var classes = _repository.ReadClasses();
             var classToRegister = classes.FirstOrDefault(c => c.Id == classId);
+
             if (classToRegister == null)
             {
                 throw new InvalidOperationException("Class not found.");

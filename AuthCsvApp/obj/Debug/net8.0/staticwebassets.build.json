@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iyG/nlOfo+Ypt0pUDIt0kYMxMqsxqctLXinASVHlNL0=",
+  "Hash": "fdazOqunj/kLPsG/rI8gLmxE2b9LX2fHLRaozkvSaCs=",
   "Source": "AuthCsvApp",
   "BasePath": "_content/AuthCsvApp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "AuthCsvApp\\wwwroot",
       "Source": "AuthCsvApp",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AuthCsvApp.styles.css",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AuthCsvApp.styles.css",
       "SourceId": "AuthCsvApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "AuthCsvApp#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "KSQ3sdflCX+JVPZwnLv1ZCOaEjCBaYb3WLkiGnVY03w=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AuthCsvApp.styles.css"
+      "OriginalItemSpec": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AuthCsvApp.styles.css"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AuthCsvApp.bundle.scp.css",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AuthCsvApp.bundle.scp.css",
       "SourceId": "AuthCsvApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "AuthCsvApp#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "KSQ3sdflCX+JVPZwnLv1ZCOaEjCBaYb3WLkiGnVY03w=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AuthCsvApp.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AuthCsvApp.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\admin-dashboard.css",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\admin-dashboard.css",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "css/admin-dashboard#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\css\\admin-dashboard.css"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\enter-grades.css",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\enter-grades.css",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "css/enter-grades#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\css\\enter-grades.css"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\login.css",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\login.css",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "css/login#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\css\\login.css"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\manage-classes.css",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\manage-classes.css",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "css/manage-classes#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\css\\manage-classes.css"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\manage-semesters.css",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\manage-semesters.css",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "css/manage-semesters#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\css\\manage-semesters.css"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\manage-subjects.css",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\manage-subjects.css",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "css/manage-subjects#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\css\\manage-subjects.css"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\register.css",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\register.css",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "css/register#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\css\\register.css"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\site.css",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\student-dashboard.css",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\student-dashboard.css",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "css/student-dashboard#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\css\\student-dashboard.css"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\take-attendance.css",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\take-attendance.css",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "css/take-attendance#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\css\\take-attendance.css"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\teacher-dashboard.css",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\teacher-dashboard.css",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "css/teacher-dashboard#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\css\\teacher-dashboard.css"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\attendances.csv",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\attendances.csv",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "data/attendances#[.{fingerprint}]?.csv",
       "AssetKind": "All",
@@ -304,17 +304,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "3cjotjv6fc",
-      "Integrity": "Ha9l9AVOVRDealmr2fnXxyDUMsNIu0/5r0h01Tb6aCw=",
+      "Fingerprint": "km5kaba6o0",
+      "Integrity": "hDAYEBQHERz9nLwJfqgUJvtr5xEmMxMnaw1m/ssxomE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\data\\attendances.csv"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\classes.csv",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\classes.csv",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "data/classes#[.{fingerprint}]?.csv",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\data\\classes.csv"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\grades.csv",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\grades.csv",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "data/grades#[.{fingerprint}]?.csv",
       "AssetKind": "All",
@@ -346,17 +346,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "gi156b99j7",
-      "Integrity": "GMdmJ4gSaq+JacZ00dp9d3QQIDEVTohhk5Inj2hACPo=",
+      "Fingerprint": "fr6whztx1i",
+      "Integrity": "xehcWwKAeQybUCbmg/4Xi3j6wfEOAV5NqGmhxy2kgnM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\data\\grades.csv"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\notifications.csv",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\notifications.csv",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "data/notifications#[.{fingerprint}]?.csv",
       "AssetKind": "All",
@@ -367,17 +367,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "mwhool678b",
-      "Integrity": "WuMlFq4a5ZzOQ/u6XEpKmnHe6sIqKjw8IOEwnIedDyE=",
+      "Fingerprint": "c47e1rix54",
+      "Integrity": "dJcim6BunZmQzihmu3RT+PiGRNSodC54cazkLmeKCkw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\data\\notifications.csv"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\semesters.csv",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\semesters.csv",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "data/semesters#[.{fingerprint}]?.csv",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\data\\semesters.csv"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\subject_registrations.csv",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\subject_registrations.csv",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "data/subject_registrations#[.{fingerprint}]?.csv",
       "AssetKind": "All",
@@ -409,17 +409,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ywxqmx23zj",
-      "Integrity": "zvfBObXBC7/sya3nhrP3R4M/AsXIYZhGfCKSI5uYTKE=",
+      "Fingerprint": "mns3x5z2jo",
+      "Integrity": "0lg0213nqDBHR6uHxbmwy/PLWQB8iylQwmiZZplyWgc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\data\\subject_registrations.csv"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\subjects.csv",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\subjects.csv",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "data/subjects#[.{fingerprint}]?.csv",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\data\\subjects.csv"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\users.csv",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\users.csv",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "data/users#[.{fingerprint}]?.csv",
       "AssetKind": "All",
@@ -451,17 +451,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "smzipb5tnr",
-      "Integrity": "5Nlu1mwM139Lmm7JKZIgOGhjQGNlR8MgOMkNZthlPIU=",
+      "Fingerprint": "3jbkreex5u",
+      "Integrity": "X4ottulaaatRmhB3N5TRBlyD2mi6iaEZF1LYknnWROY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\data\\users.csv"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\favicon.ico",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -479,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\js\\site.js",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -500,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -521,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -542,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -563,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -584,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -605,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -626,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -647,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -668,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -689,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -710,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -752,10 +752,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -773,10 +773,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -794,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -836,10 +836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -857,10 +857,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -878,10 +878,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -899,10 +899,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -920,10 +920,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -941,10 +941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -962,10 +962,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -983,10 +983,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1004,10 +1004,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1025,10 +1025,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1046,10 +1046,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1067,10 +1067,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1109,10 +1109,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1130,10 +1130,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1151,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1172,10 +1172,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1193,10 +1193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1235,10 +1235,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1256,10 +1256,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1277,10 +1277,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1298,10 +1298,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1319,10 +1319,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1340,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1361,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1382,10 +1382,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1403,10 +1403,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1424,10 +1424,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1466,10 +1466,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1487,10 +1487,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1508,10 +1508,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1529,10 +1529,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1550,10 +1550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1571,10 +1571,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1592,10 +1592,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -1634,10 +1634,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1655,10 +1655,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1676,10 +1676,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "AuthCsvApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\",
       "BasePath": "_content/AuthCsvApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1700,7 +1700,7 @@
   "Endpoints": [
     {
       "Route": "AuthCsvApp.bundle.scp.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AuthCsvApp.bundle.scp.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AuthCsvApp.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1721,7 +1721,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 09:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1737,7 +1737,7 @@
     },
     {
       "Route": "AuthCsvApp.styles.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AuthCsvApp.styles.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AuthCsvApp.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1758,7 +1758,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 09:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1774,7 +1774,7 @@
     },
     {
       "Route": "AuthCsvApp.vmaga23qgm.bundle.scp.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AuthCsvApp.bundle.scp.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AuthCsvApp.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1795,7 +1795,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 09:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1819,7 +1819,7 @@
     },
     {
       "Route": "AuthCsvApp.vmaga23qgm.styles.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AuthCsvApp.styles.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AuthCsvApp.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1840,7 +1840,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 09:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1864,7 +1864,7 @@
     },
     {
       "Route": "css/admin-dashboard.2ak32vj5p5.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\admin-dashboard.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\admin-dashboard.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1885,7 +1885,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1909,7 +1909,7 @@
     },
     {
       "Route": "css/admin-dashboard.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\admin-dashboard.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\admin-dashboard.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1930,7 +1930,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1946,7 +1946,7 @@
     },
     {
       "Route": "css/enter-grades.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\enter-grades.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\enter-grades.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1967,7 +1967,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1983,7 +1983,7 @@
     },
     {
       "Route": "css/enter-grades.smrwx92ezx.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\enter-grades.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\enter-grades.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2004,7 +2004,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2028,7 +2028,7 @@
     },
     {
       "Route": "css/login.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\login.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\login.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2049,7 +2049,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2065,7 +2065,7 @@
     },
     {
       "Route": "css/login.zd605ybkcb.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\login.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\login.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2086,7 +2086,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2110,7 +2110,7 @@
     },
     {
       "Route": "css/manage-classes.18btk1rdbb.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\manage-classes.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\manage-classes.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2131,7 +2131,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2155,7 +2155,7 @@
     },
     {
       "Route": "css/manage-classes.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\manage-classes.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\manage-classes.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2176,7 +2176,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2192,7 +2192,7 @@
     },
     {
       "Route": "css/manage-semesters.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\manage-semesters.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\manage-semesters.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2213,7 +2213,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2229,7 +2229,7 @@
     },
     {
       "Route": "css/manage-semesters.ob2muywvbe.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\manage-semesters.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\manage-semesters.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2250,7 +2250,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2274,7 +2274,7 @@
     },
     {
       "Route": "css/manage-subjects.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\manage-subjects.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\manage-subjects.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2295,7 +2295,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2311,7 +2311,7 @@
     },
     {
       "Route": "css/manage-subjects.kw1ska3p6h.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\manage-subjects.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\manage-subjects.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2332,7 +2332,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2356,7 +2356,7 @@
     },
     {
       "Route": "css/register.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\register.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\register.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2377,7 +2377,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2393,7 +2393,7 @@
     },
     {
       "Route": "css/register.uuxq2dopl1.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\register.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\register.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2414,7 +2414,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2438,7 +2438,7 @@
     },
     {
       "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2459,7 +2459,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2483,7 +2483,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2504,7 +2504,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2520,7 +2520,7 @@
     },
     {
       "Route": "css/student-dashboard.3iug43a2b0.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\student-dashboard.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\student-dashboard.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2541,7 +2541,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2565,7 +2565,7 @@
     },
     {
       "Route": "css/student-dashboard.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\student-dashboard.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\student-dashboard.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2586,7 +2586,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2602,7 +2602,7 @@
     },
     {
       "Route": "css/take-attendance.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\take-attendance.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\take-attendance.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2623,7 +2623,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2639,7 +2639,7 @@
     },
     {
       "Route": "css/take-attendance.u5xei0jvzg.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\take-attendance.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\take-attendance.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2660,7 +2660,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2684,7 +2684,7 @@
     },
     {
       "Route": "css/teacher-dashboard.7a8jjhjium.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\teacher-dashboard.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\teacher-dashboard.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2705,7 +2705,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2729,7 +2729,7 @@
     },
     {
       "Route": "css/teacher-dashboard.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\teacher-dashboard.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\css\\teacher-dashboard.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2750,7 +2750,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2765,53 +2765,8 @@
       ]
     },
     {
-      "Route": "data/attendances.3cjotjv6fc.csv",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\attendances.csv",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "445"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/csv"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Ha9l9AVOVRDealmr2fnXxyDUMsNIu0/5r0h01Tb6aCw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "3cjotjv6fc"
-        },
-        {
-          "Name": "label",
-          "Value": "data/attendances.csv"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Ha9l9AVOVRDealmr2fnXxyDUMsNIu0/5r0h01Tb6aCw="
-        }
-      ]
-    },
-    {
       "Route": "data/attendances.csv",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\attendances.csv",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\attendances.csv",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2820,7 +2775,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "445"
+          "Value": "528"
         },
         {
           "Name": "Content-Type",
@@ -2828,11 +2783,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ha9l9AVOVRDealmr2fnXxyDUMsNIu0/5r0h01Tb6aCw=\""
+          "Value": "\"hDAYEBQHERz9nLwJfqgUJvtr5xEmMxMnaw1m/ssxomE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2842,13 +2797,58 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Ha9l9AVOVRDealmr2fnXxyDUMsNIu0/5r0h01Tb6aCw="
+          "Value": "sha256-hDAYEBQHERz9nLwJfqgUJvtr5xEmMxMnaw1m/ssxomE="
+        }
+      ]
+    },
+    {
+      "Route": "data/attendances.km5kaba6o0.csv",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\attendances.csv",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "528"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/csv"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hDAYEBQHERz9nLwJfqgUJvtr5xEmMxMnaw1m/ssxomE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "km5kaba6o0"
+        },
+        {
+          "Name": "label",
+          "Value": "data/attendances.csv"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hDAYEBQHERz9nLwJfqgUJvtr5xEmMxMnaw1m/ssxomE="
         }
       ]
     },
     {
       "Route": "data/classes.7c2tmhxueo.csv",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\classes.csv",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\classes.csv",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2869,7 +2869,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 06 Apr 2025 02:43:06 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2893,7 +2893,7 @@
     },
     {
       "Route": "data/classes.csv",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\classes.csv",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\classes.csv",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2914,7 +2914,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 06 Apr 2025 02:43:06 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2930,7 +2930,7 @@
     },
     {
       "Route": "data/grades.csv",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\grades.csv",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\grades.csv",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2939,7 +2939,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "220"
+          "Value": "255"
         },
         {
           "Name": "Content-Type",
@@ -2947,11 +2947,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GMdmJ4gSaq+JacZ00dp9d3QQIDEVTohhk5Inj2hACPo=\""
+          "Value": "\"xehcWwKAeQybUCbmg/4Xi3j6wfEOAV5NqGmhxy2kgnM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 05:18:21 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2961,13 +2961,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GMdmJ4gSaq+JacZ00dp9d3QQIDEVTohhk5Inj2hACPo="
+          "Value": "sha256-xehcWwKAeQybUCbmg/4Xi3j6wfEOAV5NqGmhxy2kgnM="
         }
       ]
     },
     {
-      "Route": "data/grades.gi156b99j7.csv",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\grades.csv",
+      "Route": "data/grades.fr6whztx1i.csv",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\grades.csv",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2976,7 +2976,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "220"
+          "Value": "255"
         },
         {
           "Name": "Content-Type",
@@ -2984,11 +2984,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GMdmJ4gSaq+JacZ00dp9d3QQIDEVTohhk5Inj2hACPo=\""
+          "Value": "\"xehcWwKAeQybUCbmg/4Xi3j6wfEOAV5NqGmhxy2kgnM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 05:18:21 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2998,7 +2998,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "gi156b99j7"
+          "Value": "fr6whztx1i"
         },
         {
           "Name": "label",
@@ -3006,13 +3006,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-GMdmJ4gSaq+JacZ00dp9d3QQIDEVTohhk5Inj2hACPo="
+          "Value": "sha256-xehcWwKAeQybUCbmg/4Xi3j6wfEOAV5NqGmhxy2kgnM="
         }
       ]
     },
     {
-      "Route": "data/notifications.csv",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\notifications.csv",
+      "Route": "data/notifications.c47e1rix54.csv",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\notifications.csv",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3021,7 +3021,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "460"
+          "Value": "539"
         },
         {
           "Name": "Content-Type",
@@ -3029,48 +3029,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"WuMlFq4a5ZzOQ/u6XEpKmnHe6sIqKjw8IOEwnIedDyE=\""
+          "Value": "\"dJcim6BunZmQzihmu3RT+PiGRNSodC54cazkLmeKCkw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 05:18:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-WuMlFq4a5ZzOQ/u6XEpKmnHe6sIqKjw8IOEwnIedDyE="
-        }
-      ]
-    },
-    {
-      "Route": "data/notifications.mwhool678b.csv",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\notifications.csv",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "460"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/csv"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"WuMlFq4a5ZzOQ/u6XEpKmnHe6sIqKjw8IOEwnIedDyE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 05:18:21 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3080,7 +3043,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mwhool678b"
+          "Value": "c47e1rix54"
         },
         {
           "Name": "label",
@@ -3088,13 +3051,50 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-WuMlFq4a5ZzOQ/u6XEpKmnHe6sIqKjw8IOEwnIedDyE="
+          "Value": "sha256-dJcim6BunZmQzihmu3RT+PiGRNSodC54cazkLmeKCkw="
+        }
+      ]
+    },
+    {
+      "Route": "data/notifications.csv",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\notifications.csv",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "539"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/csv"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dJcim6BunZmQzihmu3RT+PiGRNSodC54cazkLmeKCkw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dJcim6BunZmQzihmu3RT+PiGRNSodC54cazkLmeKCkw="
         }
       ]
     },
     {
       "Route": "data/semesters.aowjsuvlgy.csv",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\semesters.csv",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\semesters.csv",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3115,7 +3115,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 06 Apr 2025 02:39:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3139,7 +3139,7 @@
     },
     {
       "Route": "data/semesters.csv",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\semesters.csv",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\semesters.csv",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3160,7 +3160,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 06 Apr 2025 02:39:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3176,7 +3176,7 @@
     },
     {
       "Route": "data/subject_registrations.csv",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\subject_registrations.csv",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\subject_registrations.csv",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3185,7 +3185,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "300"
+          "Value": "343"
         },
         {
           "Name": "Content-Type",
@@ -3193,11 +3193,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zvfBObXBC7/sya3nhrP3R4M/AsXIYZhGfCKSI5uYTKE=\""
+          "Value": "\"0lg0213nqDBHR6uHxbmwy/PLWQB8iylQwmiZZplyWgc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 05:20:39 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3207,13 +3207,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zvfBObXBC7/sya3nhrP3R4M/AsXIYZhGfCKSI5uYTKE="
+          "Value": "sha256-0lg0213nqDBHR6uHxbmwy/PLWQB8iylQwmiZZplyWgc="
         }
       ]
     },
     {
-      "Route": "data/subject_registrations.ywxqmx23zj.csv",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\subject_registrations.csv",
+      "Route": "data/subject_registrations.mns3x5z2jo.csv",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\subject_registrations.csv",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3222,7 +3222,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "300"
+          "Value": "343"
         },
         {
           "Name": "Content-Type",
@@ -3230,11 +3230,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zvfBObXBC7/sya3nhrP3R4M/AsXIYZhGfCKSI5uYTKE=\""
+          "Value": "\"0lg0213nqDBHR6uHxbmwy/PLWQB8iylQwmiZZplyWgc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 05:20:39 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3244,7 +3244,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ywxqmx23zj"
+          "Value": "mns3x5z2jo"
         },
         {
           "Name": "label",
@@ -3252,13 +3252,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-zvfBObXBC7/sya3nhrP3R4M/AsXIYZhGfCKSI5uYTKE="
+          "Value": "sha256-0lg0213nqDBHR6uHxbmwy/PLWQB8iylQwmiZZplyWgc="
         }
       ]
     },
     {
       "Route": "data/subjects.7tcw5jchnu.csv",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\subjects.csv",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\subjects.csv",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3279,7 +3279,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 06 Apr 2025 02:40:06 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3303,7 +3303,7 @@
     },
     {
       "Route": "data/subjects.csv",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\subjects.csv",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\subjects.csv",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3324,7 +3324,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 06 Apr 2025 02:40:06 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3339,8 +3339,8 @@
       ]
     },
     {
-      "Route": "data/users.csv",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\users.csv",
+      "Route": "data/users.3jbkreex5u.csv",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\users.csv",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3349,7 +3349,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "606"
+          "Value": "629"
         },
         {
           "Name": "Content-Type",
@@ -3357,48 +3357,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5Nlu1mwM139Lmm7JKZIgOGhjQGNlR8MgOMkNZthlPIU=\""
+          "Value": "\"X4ottulaaatRmhB3N5TRBlyD2mi6iaEZF1LYknnWROY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 05:14:13 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-5Nlu1mwM139Lmm7JKZIgOGhjQGNlR8MgOMkNZthlPIU="
-        }
-      ]
-    },
-    {
-      "Route": "data/users.smzipb5tnr.csv",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\users.csv",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "606"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/csv"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"5Nlu1mwM139Lmm7JKZIgOGhjQGNlR8MgOMkNZthlPIU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 05:14:13 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3408,7 +3371,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "smzipb5tnr"
+          "Value": "3jbkreex5u"
         },
         {
           "Name": "label",
@@ -3416,13 +3379,50 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-5Nlu1mwM139Lmm7JKZIgOGhjQGNlR8MgOMkNZthlPIU="
+          "Value": "sha256-X4ottulaaatRmhB3N5TRBlyD2mi6iaEZF1LYknnWROY="
+        }
+      ]
+    },
+    {
+      "Route": "data/users.csv",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\data\\users.csv",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "629"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/csv"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X4ottulaaatRmhB3N5TRBlyD2mi6iaEZF1LYknnWROY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X4ottulaaatRmhB3N5TRBlyD2mi6iaEZF1LYknnWROY="
         }
       ]
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3443,7 +3443,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3467,7 +3467,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3488,7 +3488,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3504,7 +3504,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3525,7 +3525,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3541,7 +3541,7 @@
     },
     {
       "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3562,7 +3562,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3586,7 +3586,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3607,7 +3607,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3623,7 +3623,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3644,7 +3644,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3668,7 +3668,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3689,7 +3689,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3705,7 +3705,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.6gzpyzhau4.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3726,7 +3726,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3750,7 +3750,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3771,7 +3771,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3787,7 +3787,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3808,7 +3808,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3832,7 +3832,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3853,7 +3853,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3869,7 +3869,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.ozu22stjof.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3890,7 +3890,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3914,7 +3914,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3935,7 +3935,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3951,7 +3951,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3972,7 +3972,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3996,7 +3996,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4017,7 +4017,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4033,7 +4033,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.gjcw7pocpk.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4054,7 +4054,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4078,7 +4078,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.6l4ir0ityv.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4099,7 +4099,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4123,7 +4123,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4144,7 +4144,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4160,7 +4160,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4181,7 +4181,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4205,7 +4205,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4226,7 +4226,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4242,7 +4242,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4263,7 +4263,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4279,7 +4279,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4300,7 +4300,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4316,7 +4316,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.st1cbwfwo5.map",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4337,7 +4337,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4361,7 +4361,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.5p029spbuu.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4382,7 +4382,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4406,7 +4406,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4427,7 +4427,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4443,7 +4443,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.5vj65cig9w.map",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4464,7 +4464,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4488,7 +4488,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4509,7 +4509,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4525,7 +4525,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.nakmwdwsxp.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4546,7 +4546,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4570,7 +4570,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4591,7 +4591,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4607,7 +4607,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.2q4vfeazbq.map",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4628,7 +4628,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4652,7 +4652,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4673,7 +4673,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4689,7 +4689,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.e6q6xbwqzk.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4710,7 +4710,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4734,7 +4734,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4755,7 +4755,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4771,7 +4771,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4792,7 +4792,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4808,7 +4808,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.o371a8zbv2.map",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4829,7 +4829,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4853,7 +4853,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.dy6jgresuo.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4874,7 +4874,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4898,7 +4898,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4919,7 +4919,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4935,7 +4935,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4956,7 +4956,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4980,7 +4980,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5001,7 +5001,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5017,7 +5017,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5038,7 +5038,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5054,7 +5054,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5075,7 +5075,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5091,7 +5091,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5112,7 +5112,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5136,7 +5136,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.z7kmom2977.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5157,7 +5157,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5181,7 +5181,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.mk8rdyw69w.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5202,7 +5202,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5226,7 +5226,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.97yrjpyf9r.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5247,7 +5247,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5271,7 +5271,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5292,7 +5292,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5308,7 +5308,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5329,7 +5329,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5353,7 +5353,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5374,7 +5374,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5390,7 +5390,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5411,7 +5411,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5427,7 +5427,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5448,7 +5448,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5464,7 +5464,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5485,7 +5485,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5509,7 +5509,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.y53cy5s2zj.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5530,7 +5530,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5554,7 +5554,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5575,7 +5575,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5591,7 +5591,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.j75batdsum.map",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5612,7 +5612,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5636,7 +5636,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5657,7 +5657,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5673,7 +5673,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.2yn17lgxub.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5694,7 +5694,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5718,7 +5718,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5739,7 +5739,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5755,7 +5755,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5776,7 +5776,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5792,7 +5792,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.vy0bq9ydhf.map",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5813,7 +5813,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5837,7 +5837,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5858,7 +5858,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5874,7 +5874,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.ab1c3rmv7g.map",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5895,7 +5895,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5919,7 +5919,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5940,7 +5940,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5956,7 +5956,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5977,7 +5977,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5993,7 +5993,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.56d2bn4wt9.map",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6014,7 +6014,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6038,7 +6038,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6059,7 +6059,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6075,7 +6075,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.ik6i2hrs65.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6096,7 +6096,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6120,7 +6120,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.ophe14yye5.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6141,7 +6141,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6165,7 +6165,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.z9shlbduue.css",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6186,7 +6186,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6210,7 +6210,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.1piudyfv7h.js",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6231,7 +6231,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6255,7 +6255,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.f6zq8v6eb3.js",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6276,7 +6276,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6300,7 +6300,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6321,7 +6321,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6337,7 +6337,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6358,7 +6358,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6382,7 +6382,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6403,7 +6403,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6419,7 +6419,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.89qbw8ngem.js",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6440,7 +6440,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6464,7 +6464,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6485,7 +6485,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6501,7 +6501,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6522,7 +6522,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6546,7 +6546,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6567,7 +6567,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6583,7 +6583,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6604,7 +6604,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6620,7 +6620,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6641,7 +6641,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6665,7 +6665,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6686,7 +6686,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6702,7 +6702,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.jqwzsa9uv6.js",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6723,7 +6723,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6747,7 +6747,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6768,7 +6768,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6784,7 +6784,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6805,7 +6805,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6821,7 +6821,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6842,7 +6842,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6866,7 +6866,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.n5w6o92d9r.js",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6887,7 +6887,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6911,7 +6911,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6932,7 +6932,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6948,7 +6948,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6969,7 +6969,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6993,7 +6993,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7014,7 +7014,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7030,7 +7030,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.4908xmbfjr.js",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7051,7 +7051,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7075,7 +7075,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7096,7 +7096,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7112,7 +7112,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7133,7 +7133,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7149,7 +7149,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7170,7 +7170,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7194,7 +7194,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7215,7 +7215,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7231,7 +7231,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.81b7ukuj9c",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7252,7 +7252,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7276,7 +7276,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.7s2n0ol71w.js",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7297,7 +7297,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7321,7 +7321,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7342,7 +7342,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7358,7 +7358,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7379,7 +7379,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7403,7 +7403,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.ehgnz7f14e.js",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7424,7 +7424,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7448,7 +7448,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7469,7 +7469,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7485,7 +7485,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7506,7 +7506,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7522,7 +7522,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7543,7 +7543,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7567,7 +7567,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7588,7 +7588,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7604,7 +7604,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.ay5nd8zt9x.js",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7625,7 +7625,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7649,7 +7649,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7670,7 +7670,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7686,7 +7686,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.9oaff4kq20.js",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7707,7 +7707,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7731,7 +7731,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7752,7 +7752,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7768,7 +7768,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.6d0lkjaslc.js",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7789,7 +7789,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7813,7 +7813,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7834,7 +7834,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7850,7 +7850,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7871,7 +7871,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7887,7 +7887,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.l1zq2mitth.js",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7908,7 +7908,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7932,7 +7932,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7953,7 +7953,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7969,7 +7969,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7990,7 +7990,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8014,7 +8014,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.03hjc8e09r.js",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8035,7 +8035,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8059,7 +8059,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8080,7 +8080,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8096,7 +8096,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.48y08845bh.js",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8117,7 +8117,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8141,7 +8141,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8162,7 +8162,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8178,7 +8178,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8199,7 +8199,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8223,7 +8223,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "C:\\Users\\ricec\\Downloads\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\ricec\\OneDrive\\Tài liệu\\NamCuongThucHuy\\AuthCsvApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8244,7 +8244,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 04:12:22 GMT"
+          "Value": "Thu, 17 Apr 2025 06:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
